@@ -17,12 +17,21 @@ open MoiMoiViewer.xcodeproj
 ## CI/CD（GitHub Actions → TestFlight）
 
 - `.github/workflows/ci.yml`: `main` へのPRごとにシミュレータ向けビルドを検証。
-- `.github/workflows/testflight.yml`: `main` へのpush（または手動実行）で自動アーカイブ・
-  署名・TestFlightへアップロード。署名はApp Store Connect API Keyによる自動署名
-  （`-allowProvisioningUpdates`）を使用するため、証明書やプロビジョニングプロファイルを
-  手動管理する必要はありません。
+- `.github/workflows/testflight.yml`: 手動実行（Actionsタブ →「Run workflow」）でアーカイブ・
+  署名・TestFlightへアップロード。
 
-このワークフローが動くには、以下の **GitHub Actions Secrets**（Settings → Secrets and
+> **注意**: 現在使っているApp Store Connect API Keyには「クラウド管理の配布証明書」への
+> アクセス権限が無く（`Cloud signing permission error`）、このワークフローの自動署名
+> （`-allowProvisioningUpdates`）はそのままでは失敗します。実際の配信は今のところ、
+> このMac上でローカルの配布証明書 + APIで発行したプロビジョニングプロファイルを使って
+> 手動署名で行っています（Bundle ID登録・App作成・証明書再利用の一式は既に完了済みなので、
+> 次回以降は「アップロードして」と頼めば数分で終わります）。GitHub Actions側を有効化したい
+> 場合は、App Store Connect → ユーザとアクセス → 統合 → キーで該当キーの役割を
+> **Admin** に変更するか、証明書(.p12)をCIのキーチェーンにインポートする方式に切り替える
+> 必要があります。そのため `push` トリガーは外し、`workflow_dispatch`（手動実行）のみに
+> しています（誤って毎push失敗メールが届くのを防ぐため）。
+
+このワークフローを有効化する場合、以下の **GitHub Actions Secrets**（Settings → Secrets and
 variables → Actions → New repository secret）が必要です。いずれもApple側の操作でしか
 発行できないため、事前に用意してください。
 
