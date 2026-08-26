@@ -1,0 +1,12 @@
+.DS_Store
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.swiftpm/
+*.ipa
+*.p8
+private_keys/
+
+# XcodeGen が project.yml から生成するため、生成物はコミットしない（衝突防止）
+*.xcodeproj/
