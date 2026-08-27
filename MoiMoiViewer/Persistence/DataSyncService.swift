@@ -1,22 +1,16 @@
 import Foundation
 import SwiftData
 
-@MainActor
-final class DataSyncService {
-    private let modelContext: ModelContext
-    private let apiClient: APIClient
-
-    init(
-        modelContext: ModelContext,
-        apiClient: APIClient = APIClient(
-            dataEndpoint: URL(
-                string: "https://raw.githubusercontent.com/jumbono/MoiMoiViewer/main/data/latest.json"
-            )!
-        )
-    ) {
-        self.modelContext = modelContext
-        self.apiClient = apiClient
-    }
+/// `@ModelActor` はバックグラウンドの `ModelContext` を持つ actor を生成する。
+/// メインスレッド（UI）をブロックせずに数千件規模のupsertを行うため、
+/// あえて `@MainActor` クラスではなくこちらを使っている。
+@ModelActor
+actor DataSyncService {
+    private let apiClient = APIClient(
+        dataEndpoint: URL(
+            string: "https://raw.githubusercontent.com/jumbono/MoiMoiViewer/main/data/latest.json"
+        )!
+    )
 
     func syncAll() async {
         do {
@@ -31,94 +25,102 @@ final class DataSyncService {
     }
 
     private func upsertPerformers(_ dtos: [PerformerDTO]) throws {
+        let existing = try modelContext.fetch(FetchDescriptor<Performer>())
+        let byID = Dictionary(uniqueKeysWithValues: existing.map { ($0.id, $0) })
+
         for dto in dtos {
-            let id = dto.id
-            let descriptor = FetchDescriptor<Performer>(predicate: #Predicate { $0.id == id })
-            if let existing = try modelContext.fetch(descriptor).first {
-                existing.name = dto.name
-                existing.kana = dto.kana
-                existing.roleRaw = dto.role
-                existing.generation = dto.generation
-                existing.tenureStart = dto.tenureStart
-                existing.tenureEnd = dto.tenureEnd
-                existing.biography = dto.biography
-                existing.photoURLString = dto.photoURLString
-                existing.sourceURLString = dto.sourceURLString
-                existing.updatedAt = .now
+            if let performer = byID[dto.id] {
+                performer.name = dto.name
+                performer.kana = dto.kana
+                performer.roleRaw = dto.role
+                performer.generation = dto.generation
+                performer.tenureStart = dto.tenureStart
+                performer.tenureEnd = dto.tenureEnd
+                performer.biography = dto.biography
+                performer.photoURLString = dto.photoURLString
+                performer.sourceURLString = dto.sourceURLString
+                performer.updatedAt = .now
             } else {
-                let performer = Performer(
-                    id: dto.id,
-                    name: dto.name,
-                    kana: dto.kana,
-                    role: PerformerRole(rawValue: dto.role) ?? .other,
-                    generation: dto.generation,
-                    tenureStart: dto.tenureStart,
-                    tenureEnd: dto.tenureEnd,
-                    biography: dto.biography,
-                    photoURLString: dto.photoURLString,
-                    sourceURLString: dto.sourceURLString
+                modelContext.insert(
+                    Performer(
+                        id: dto.id,
+                        name: dto.name,
+                        kana: dto.kana,
+                        role: PerformerRole(rawValue: dto.role) ?? .other,
+                        generation: dto.generation,
+                        tenureStart: dto.tenureStart,
+                        tenureEnd: dto.tenureEnd,
+                        biography: dto.biography,
+                        photoURLString: dto.photoURLString,
+                        sourceURLString: dto.sourceURLString
+                    )
                 )
-                modelContext.insert(performer)
             }
         }
     }
 
     private func upsertSongs(_ dtos: [SongDTO]) throws {
+        let existing = try modelContext.fetch(FetchDescriptor<Song>())
+        let byID = Dictionary(uniqueKeysWithValues: existing.map { ($0.id, $0) })
+
         for dto in dtos {
-            let id = dto.id
-            let descriptor = FetchDescriptor<Song>(predicate: #Predicate { $0.id == id })
-            if let existing = try modelContext.fetch(descriptor).first {
-                existing.title = dto.title
-                existing.categoryRaw = dto.category
-                existing.yearMonth = dto.yearMonth
-                existing.composer = dto.composer
-                existing.lyricist = dto.lyricist
-                existing.singerNames = dto.singerNames
-                existing.songDescription = dto.songDescription
-                existing.sourceURLString = dto.sourceURLString
-                existing.updatedAt = .now
+            if let song = byID[dto.id] {
+                song.title = dto.title
+                song.categoryRaw = dto.category
+                song.yearMonth = dto.yearMonth
+                song.composer = dto.composer
+                song.lyricist = dto.lyricist
+                song.singerNames = dto.singerNames
+                song.songDescription = dto.songDescription
+                song.sourceURLString = dto.sourceURLString
+                song.updatedAt = .now
             } else {
-                let song = Song(
-                    id: dto.id,
-                    title: dto.title,
-                    category: SongCategory(rawValue: dto.category) ?? .other,
-                    yearMonth: dto.yearMonth,
-                    composer: dto.composer,
-                    lyricist: dto.lyricist,
-                    singerNames: dto.singerNames,
-                    songDescription: dto.songDescription,
-                    sourceURLString: dto.sourceURLString
+                modelContext.insert(
+                    Song(
+                        id: dto.id,
+                        title: dto.title,
+                        category: SongCategory(rawValue: dto.category) ?? .other,
+                        yearMonth: dto.yearMonth,
+                        composer: dto.composer,
+                        lyricist: dto.lyricist,
+                        singerNames: dto.singerNames,
+                        songDescription: dto.songDescription,
+                        sourceURLString: dto.sourceURLString
+                    )
                 )
-                modelContext.insert(song)
             }
         }
     }
 
     private func upsertBroadcasts(_ dtos: [BroadcastDTO]) throws {
+        let existing = try modelContext.fetch(FetchDescriptor<Broadcast>())
+        let byID = Dictionary(uniqueKeysWithValues: existing.map { ($0.id, $0) })
+
         for dto in dtos {
-            let id = dto.id
-            let descriptor = FetchDescriptor<Broadcast>(predicate: #Predicate { $0.id == id })
-            if let existing = try modelContext.fetch(descriptor).first {
-                existing.date = dto.date
-                existing.title = dto.title
-                existing.performerNames = dto.performerNames
-                existing.songTitles = dto.songTitles
-                existing.resultNote = dto.resultNote
-                existing.isSpecialEpisode = dto.isSpecialEpisode
-                existing.sourceURLString = dto.sourceURLString
-                existing.updatedAt = .now
+            if let broadcast = byID[dto.id] {
+                broadcast.date = dto.date
+                broadcast.title = dto.title
+                broadcast.performerNames = dto.performerNames
+                broadcast.songTitles = dto.songTitles
+                broadcast.resultNote = dto.resultNote
+                broadcast.isSpecialEpisode = dto.isSpecialEpisode
+                broadcast.sourceURLString = dto.sourceURLString
+                broadcast.rerunOfBroadcastID = dto.rerunOfBroadcastID
+                broadcast.updatedAt = .now
             } else {
-                let broadcast = Broadcast(
-                    id: dto.id,
-                    date: dto.date,
-                    title: dto.title,
-                    performerNames: dto.performerNames,
-                    songTitles: dto.songTitles,
-                    resultNote: dto.resultNote,
-                    isSpecialEpisode: dto.isSpecialEpisode,
-                    sourceURLString: dto.sourceURLString
+                modelContext.insert(
+                    Broadcast(
+                        id: dto.id,
+                        date: dto.date,
+                        title: dto.title,
+                        performerNames: dto.performerNames,
+                        songTitles: dto.songTitles,
+                        resultNote: dto.resultNote,
+                        isSpecialEpisode: dto.isSpecialEpisode,
+                        sourceURLString: dto.sourceURLString,
+                        rerunOfBroadcastID: dto.rerunOfBroadcastID
+                    )
                 )
-                modelContext.insert(broadcast)
             }
         }
     }

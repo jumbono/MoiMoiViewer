@@ -238,43 +238,155 @@ def _extract_names(td) -> list[str]:
 # 放送予定と結果 (index.html の #55 セクション / broadcast.html)
 # ---------------------------------------------------------------------------
 
-_BROADCAST_ENTRY = re.compile(
-    r'<A\s+name="b_(\d{8})[^"]*">\s*</A>\s*'
-    r"(\d{4})/(\d{2})/(\d{2})\(([月火水木金土日])\)\s*"
-    r"(.*?)<BR>",
-    re.DOTALL,
+_ANCHOR = re.compile(r'<A\s+name="([^"]+)"\s*/?>(?:\s*</A>)?', re.IGNORECASE)
+_DATE_HEADER = re.compile(
+    r"^\s*(\d{4})/(\d{2})/(\d{2})\(([月火水木金土日])[^)]*\)\s*(.*?)<BR>",
+    re.DOTALL | re.IGNORECASE,
 )
+_RERUN_REF = re.compile(r'再[（(]\s*<A\s+href="#(b_\d{8})[^"]*"', re.IGNORECASE)
 _TAG = re.compile(r"<[^>]+>")
+_LEGEND_SECTION = re.compile(r"【表記】((?:.*?<BR>\s*){3})", re.DOTALL)
 
 
-def parse_broadcasts(html: str, source_url: str) -> list[dict]:
+def _clean_line(raw: str) -> str:
+    text = to_halfwidth(_TAG.sub("", raw))
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def _strip_tags_keep_spacing(raw: str) -> str:
+    """曲名と出演者コードの境目 (2文字以上の空白) を残したままタグだけ除去する"""
+    return to_halfwidth(_TAG.sub("", raw))
+
+
+def parse_legend(index_html: str) -> dict[str, str]:
+    """『Ｙ：ゆういちろう兄　Ｍ：まや姉…』という凡例をコード→名前の辞書にする"""
+    section = _LEGEND_SECTION.search(index_html)
+    if not section:
+        return {}
+    text = to_halfwidth(_TAG.sub(" ", section.group(1)))
+    legend: dict[str, str] = {}
+    for code, name in re.findall(r"([^\s：:　]{1,4})[：:]([^\s　]{1,8})", text):
+        if code in ("♪", "★", "New", "＠", "再", "@"):
+            continue
+        legend[code] = name
+    return legend
+
+
+_LATIN_CODE = re.compile(r"[A-Za-zファ][A-Za-zァ-ヶー]{0,3}$")
+_TRAILING_CODE_PAREN = re.compile(r"[（(][A-Za-zファ][A-Za-zァ-ヶー]{0,2}$")
+_NON_TITLE_WORDS = {"new"}
+
+
+def _clean_song_candidate(candidate: str) -> str | None:
+    candidate = candidate.strip().strip(")）")
+    candidate = _TRAILING_CODE_PAREN.sub("", candidate).strip()
+    if not candidate or candidate.lower() in _NON_TITLE_WORDS:
+        return None
+    return candidate
+
+
+def _extract_song_titles(text: str, legend: dict[str, str]) -> list[str]:
+    """テキスト中の ♪ の直後にある曲名候補を抽出する。
+    多行の内訳表記（♪曲名　　Ｙ Ｍ …）と、1行サマリ内の
+    「♪曲名、他のコーナー」形式の両方に対応する。
+    Ｙ♪Ｍ♪ のような出演者ごとの合いの手♪は曲名としては扱わない。
+    """
+    titles: list[str] = []
+    seen: set[str] = set()
+    for raw in re.findall(r"♪([^、♪\n]+)", text):
+        tokens = raw.strip().split()
+        if not tokens:
+            continue
+        candidate = _clean_song_candidate(tokens[0])
+        if not candidate or candidate in legend:
+            continue
+        if _LATIN_CODE.fullmatch(candidate):
+            continue
+        if candidate not in seen:
+            seen.add(candidate)
+            titles.append(candidate)
+    return titles
+
+
+def _code_pattern(legend: dict[str, str]) -> re.Pattern:
+    codes = sorted(legend.keys(), key=len, reverse=True)
+    if not codes:
+        return re.compile(r"(?!)")  # 何にもマッチしない
+    return re.compile("|".join(re.escape(c) for c in codes))
+
+
+def parse_broadcasts(html: str, source_url: str, legend: dict[str, str]) -> list[dict]:
+    code_pattern = _code_pattern(legend)
+    anchors = list(_ANCHOR.finditer(html))
     broadcasts: dict[str, dict] = {}
 
-    for m in _BROADCAST_ENTRY.finditer(html):
-        anchor_date, year, month, day, _weekday, raw_note = m.groups()
+    for i, anchor in enumerate(anchors):
+        name = anchor.group(1)
+        date_match = re.match(r"b_(\d{8})", name)
+        if not date_match:
+            continue
+        anchor_digits = date_match.group(1)
+
+        block_start = anchor.end()
+        block_end = anchors[i + 1].start() if i + 1 < len(anchors) else len(html)
+        block = html[block_start:block_end]
+
+        header_match = _DATE_HEADER.match(block)
+        if not header_match:
+            continue
+        year, month, day, _weekday, header_raw = header_match.groups()
         date_str = f"{year}-{month}-{day}"
-        if date_str.replace("-", "") != anchor_date:
-            # アンカーIDと本文日付が一致しない場合は変則ケースなのでスキップ
+        if f"{year}{month}{day}" != anchor_digits:
             continue
 
-        song_titles = [to_halfwidth(s.strip()) for s in re.findall(r"♪([^、<\n]+)", raw_note)]
-        note_text = to_halfwidth(_TAG.sub("", raw_note)).strip()
-        note_text = re.sub(r"\s+", " ", note_text)
+        rerun_match = _RERUN_REF.search(header_raw)
+        rerun_of_id = None
+        if rerun_match:
+            d = rerun_match.group(1)[2:]  # "b_20260722" -> "20260722"
+            rerun_of_id = f"broadcast-{d[0:4]}-{d[4:6]}-{d[6:8]}"
 
-        is_rerun = note_text.startswith("再")
-        is_special = any(k in note_text for k in ("スペシャル", "ファミコン", "収録"))
+        header_clean = _clean_line(header_raw)
+        is_special = any(k in header_clean for k in ("スペシャル", "ファミコン"))
+
+        body = block[header_match.end():]
+        corner_lines: list[str] = []
+        performer_codes: set[str] = set()
+        searchable_texts = [_strip_tags_keep_spacing(header_raw)]
+
+        for raw_line in re.split(r"<BR>", body, flags=re.IGNORECASE):
+            normalized = to_halfwidth(raw_line)
+            stripped = normalized.strip().lstrip("　 ")
+            if not stripped:
+                continue
+            marker = stripped[0]
+            if marker not in ("♪", "●"):
+                continue
+            clean = _clean_line(stripped[1:])
+            if not clean:
+                continue
+            if marker == "●":
+                corner_lines.append(clean)
+            spaced = _TAG.sub("", stripped[1:])
+            searchable_texts.append(("♪" if marker == "♪" else "") + spaced)
+            performer_codes.update(code_pattern.findall(clean))
+
+        song_titles = _extract_song_titles("\n".join(searchable_texts), legend)
+
+        note_parts = [p for p in [header_clean] if p]
+        note_parts += [f"♪{t}" for t in song_titles]
+        note_parts += [f"●{c}" for c in corner_lines]
 
         broadcasts[date_str] = {
             "id": f"broadcast-{date_str}",
             "date": f"{date_str}T00:00:00Z",
             "title": "",
-            "performerNames": [],
+            "performerNames": sorted({legend[c] for c in performer_codes if c in legend}),
             "songTitles": song_titles,
-            "resultNote": note_text,
+            "resultNote": "\n".join(note_parts),
             "isSpecialEpisode": is_special,
-            "sourceURLString": f"{source_url}#b_{anchor_date}",
+            "sourceURLString": f"{source_url}#b_{anchor_digits}",
+            "rerunOfBroadcastID": rerun_of_id,
         }
-        _ = is_rerun  # 現状のモデルには反映していないが、resultNote に残る
 
     return list(broadcasts.values())
 
@@ -304,10 +416,12 @@ def main() -> None:
     print("放送予定と結果を取得中...", file=sys.stderr)
     index_html = fetch("index.html")
     broadcast_html = fetch("broadcast.html")
+    legend = parse_legend(index_html)
+    print(f"  出演者コード凡例: {legend}", file=sys.stderr)
     broadcasts_by_date: dict[str, dict] = {}
-    for b in parse_broadcasts(broadcast_html, BASE + "broadcast.html"):
+    for b in parse_broadcasts(broadcast_html, BASE + "broadcast.html", legend):
         broadcasts_by_date[b["date"]] = b
-    for b in parse_broadcasts(index_html, BASE + "index.html"):
+    for b in parse_broadcasts(index_html, BASE + "index.html", legend):
         broadcasts_by_date[b["date"]] = b  # 直近分は index.html を優先
     broadcasts = sorted(broadcasts_by_date.values(), key=lambda b: b["date"], reverse=True)
     print(f"  {len(broadcasts)} 件の放送を検出", file=sys.stderr)

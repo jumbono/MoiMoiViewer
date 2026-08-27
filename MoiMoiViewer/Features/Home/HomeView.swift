@@ -6,6 +6,7 @@ struct HomeView: View {
     @Query(sort: \Song.yearMonth, order: .reverse) private var recentSongs: [Song]
     @Environment(\.modelContext) private var modelContext
     @State private var syncService: DataSyncService?
+    @State private var isSyncing = false
 
     init() {
         let now = Date.now
@@ -35,12 +36,27 @@ struct HomeView: View {
                 }
             }
             .overlay {
-                if recentBroadcasts.isEmpty && recentSongs.isEmpty {
+                if isSyncing && recentBroadcasts.isEmpty && recentSongs.isEmpty {
+                    ProgressView("最新情報を取得中…")
+                } else if recentBroadcasts.isEmpty && recentSongs.isEmpty {
                     ContentUnavailableView(
                         "データがまだありません",
                         systemImage: "tray",
                         description: Text("下に引っ張って更新すると最新情報を取得します。")
                     )
+                }
+            }
+            .safeAreaInset(edge: .top) {
+                if isSyncing && !(recentBroadcasts.isEmpty && recentSongs.isEmpty) {
+                    HStack(spacing: 6) {
+                        ProgressView()
+                        Text("最新情報を同期中…")
+                            .font(.footnote)
+                            .foregroundStyle(.secondary)
+                    }
+                    .frame(maxWidth: .infinity)
+                    .padding(.vertical, 6)
+                    .background(.bar)
                 }
             }
             .navigationTitle("ホーム")
@@ -55,14 +71,20 @@ struct HomeView: View {
                 }
             }
             .refreshable {
-                await syncService?.syncAll()
+                await performSync()
             }
             .task {
-                if syncService == nil {
-                    syncService = DataSyncService(modelContext: modelContext)
-                }
-                await syncService?.syncAll()
+                await performSync()
             }
         }
+    }
+
+    private func performSync() async {
+        if syncService == nil {
+            syncService = DataSyncService(modelContainer: modelContext.container)
+        }
+        isSyncing = true
+        await syncService?.syncAll()
+        isSyncing = false
     }
 }

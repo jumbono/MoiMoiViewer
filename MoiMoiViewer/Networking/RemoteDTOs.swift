@@ -43,4 +43,5 @@ struct BroadcastDTO: Codable {
     let resultNote: String
     let isSpecialEpisode: Bool
     let sourceURLString: String
+    let rerunOfBroadcastID: String?
 }

@@ -13,6 +13,8 @@ final class Broadcast {
     var sourceURLString: String
     var isFavorite: Bool
     var updatedAt: Date
+    /// 再放送の場合、元になった放送回の `Broadcast.id`
+    var rerunOfBroadcastID: String?
 
     init(
         id: String,
@@ -24,7 +26,8 @@ final class Broadcast {
         isSpecialEpisode: Bool = false,
         sourceURLString: String,
         isFavorite: Bool = false,
-        updatedAt: Date = .now
+        updatedAt: Date = .now,
+        rerunOfBroadcastID: String? = nil
     ) {
         self.id = id
         self.date = date
@@ -36,6 +39,7 @@ final class Broadcast {
         self.sourceURLString = sourceURLString
         self.isFavorite = isFavorite
         self.updatedAt = updatedAt
+        self.rerunOfBroadcastID = rerunOfBroadcastID
     }
 }
 

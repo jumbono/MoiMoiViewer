@@ -1,7 +1,17 @@
 import SwiftUI
+import SwiftData
 
 struct BroadcastDetailView: View {
     @Bindable var broadcast: Broadcast
+    @Query private var originalBroadcast: [Broadcast]
+
+    init(broadcast: Broadcast) {
+        self.broadcast = broadcast
+        let targetID = broadcast.rerunOfBroadcastID
+        _originalBroadcast = Query(
+            filter: #Predicate<Broadcast> { targetID != nil && $0.id == targetID! }
+        )
+    }
 
     var body: some View {
         ScrollView {
@@ -30,6 +40,18 @@ struct BroadcastDetailView: View {
                 if !broadcast.resultNote.isEmpty {
                     Text(broadcast.resultNote)
                         .font(.body)
+                }
+
+                if let original = originalBroadcast.first {
+                    NavigationLink(value: SearchResultItem.broadcast(original)) {
+                        Label(
+                            "再放送の元回を見る（\(DateFormatter.moiMoiBroadcastDate.string(from: original.date))）",
+                            systemImage: "arrow.uturn.backward"
+                        )
+                    }
+                } else if broadcast.rerunOfBroadcastID != nil {
+                    Label("再放送（元回は未取得です）", systemImage: "arrow.uturn.backward")
+                        .foregroundStyle(.secondary)
                 }
 
                 if let url = URL(string: broadcast.sourceURLString) {
