@@ -53,6 +53,7 @@ struct HomeView: View {
                 if syncService == nil {
                     syncService = DataSyncService(modelContext: modelContext)
                 }
+                await syncService?.syncAll()
             }
         }
     }
