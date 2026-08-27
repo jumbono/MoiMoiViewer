@@ -2,10 +2,18 @@ import SwiftUI
 import SwiftData
 
 struct HomeView: View {
-    @Query(sort: \Broadcast.date, order: .reverse) private var recentBroadcasts: [Broadcast]
+    @Query private var recentBroadcasts: [Broadcast]
     @Query(sort: \Song.yearMonth, order: .reverse) private var recentSongs: [Song]
     @Environment(\.modelContext) private var modelContext
     @State private var syncService: DataSyncService?
+
+    init() {
+        let now = Date.now
+        _recentBroadcasts = Query(
+            filter: #Predicate<Broadcast> { $0.date <= now },
+            sort: [SortDescriptor(\Broadcast.date, order: .reverse)]
+        )
+    }
 
     var body: some View {
         NavigationStack {

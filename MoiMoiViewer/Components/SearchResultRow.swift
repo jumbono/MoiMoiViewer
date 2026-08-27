@@ -55,7 +55,13 @@ struct SearchResultRow: View {
         case .song(let song):
             DateFormatter.moiMoiYearMonth.string(from: song.yearMonth)
         case .broadcast(let broadcast):
-            DateFormatter.moiMoiBroadcastDate.string(from: broadcast.date)
+            if !broadcast.songTitles.isEmpty {
+                "♪" + broadcast.songTitles.joined(separator: "、")
+            } else if !broadcast.resultNote.isEmpty {
+                broadcast.resultNote
+            } else {
+                "放送内容の詳細なし"
+            }
         }
     }
 
