@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T08:20:59Z",
+  "generatedAt": "2026-08-27T08:37:37Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -3343,28 +3343,6 @@
     }
   ],
   "broadcasts": [
-    {
-      "id": "broadcast-2026-11-07",
-      "date": "2026-11-07T00:00:00Z",
-      "title": "",
-      "performerNames": [],
-      "songTitles": [],
-      "resultNote": "本放送 富士ファミコン",
-      "isSpecialEpisode": true,
-      "sourceURLString": "http://moi-moi.jp/index.html#b_20261107",
-      "rerunOfBroadcastID": null
-    },
-    {
-      "id": "broadcast-2026-10-17",
-      "date": "2026-10-17T00:00:00Z",
-      "title": "",
-      "performerNames": [],
-      "songTitles": [],
-      "resultNote": "本放送 桐生ファミコン",
-      "isSpecialEpisode": true,
-      "sourceURLString": "http://moi-moi.jp/index.html#b_20261017",
-      "rerunOfBroadcastID": null
-    },
     {
       "id": "broadcast-2026-08-29",
       "date": "2026-08-29T00:00:00Z",

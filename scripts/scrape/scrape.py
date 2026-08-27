@@ -423,6 +423,21 @@ def main() -> None:
         broadcasts_by_date[b["date"]] = b
     for b in parse_broadcasts(index_html, BASE + "index.html", legend):
         broadcasts_by_date[b["date"]] = b  # 直近分は index.html を優先
+
+    now = datetime.now(timezone.utc)
+    if now.month == 12:
+        next_month_cutoff = f"{now.year + 1:04d}-01-01T00:00:00Z"
+    else:
+        next_month_cutoff = f"{now.year:04d}-{now.month + 1:02d}-01T00:00:00Z"
+    before_filter = len(broadcasts_by_date)
+    broadcasts_by_date = {
+        date: b for date, b in broadcasts_by_date.items() if date < next_month_cutoff
+    }
+    print(
+        f"  来月以降の予告分を除外: {before_filter - len(broadcasts_by_date)} 件",
+        file=sys.stderr,
+    )
+
     broadcasts = sorted(broadcasts_by_date.values(), key=lambda b: b["date"], reverse=True)
     print(f"  {len(broadcasts)} 件の放送を検出", file=sys.stderr)
 
