@@ -235,6 +235,51 @@ def _extract_names(td) -> list[str]:
 
 
 # ---------------------------------------------------------------------------
+# 放送予定と結果 (index.html の #55 セクション / broadcast.html)
+# ---------------------------------------------------------------------------
+
+_BROADCAST_ENTRY = re.compile(
+    r'<A\s+name="b_(\d{8})[^"]*">\s*</A>\s*'
+    r"(\d{4})/(\d{2})/(\d{2})\(([月火水木金土日])\)\s*"
+    r"(.*?)<BR>",
+    re.DOTALL,
+)
+_TAG = re.compile(r"<[^>]+>")
+
+
+def parse_broadcasts(html: str, source_url: str) -> list[dict]:
+    broadcasts: dict[str, dict] = {}
+
+    for m in _BROADCAST_ENTRY.finditer(html):
+        anchor_date, year, month, day, _weekday, raw_note = m.groups()
+        date_str = f"{year}-{month}-{day}"
+        if date_str.replace("-", "") != anchor_date:
+            # アンカーIDと本文日付が一致しない場合は変則ケースなのでスキップ
+            continue
+
+        song_titles = [to_halfwidth(s.strip()) for s in re.findall(r"♪([^、<\n]+)", raw_note)]
+        note_text = to_halfwidth(_TAG.sub("", raw_note)).strip()
+        note_text = re.sub(r"\s+", " ", note_text)
+
+        is_rerun = note_text.startswith("再")
+        is_special = any(k in note_text for k in ("スペシャル", "ファミコン", "収録"))
+
+        broadcasts[date_str] = {
+            "id": f"broadcast-{date_str}",
+            "date": f"{date_str}T00:00:00Z",
+            "title": "",
+            "performerNames": [],
+            "songTitles": song_titles,
+            "resultNote": note_text,
+            "isSpecialEpisode": is_special,
+            "sourceURLString": f"{source_url}#b_{anchor_date}",
+        }
+        _ = is_rerun  # 現状のモデルには反映していないが、resultNote に残る
+
+    return list(broadcasts.values())
+
+
+# ---------------------------------------------------------------------------
 # main
 # ---------------------------------------------------------------------------
 
@@ -256,11 +301,22 @@ def main() -> None:
     songs = parse_songs(songs_html)
     print(f"  {len(songs)} 曲を検出", file=sys.stderr)
 
+    print("放送予定と結果を取得中...", file=sys.stderr)
+    index_html = fetch("index.html")
+    broadcast_html = fetch("broadcast.html")
+    broadcasts_by_date: dict[str, dict] = {}
+    for b in parse_broadcasts(broadcast_html, BASE + "broadcast.html"):
+        broadcasts_by_date[b["date"]] = b
+    for b in parse_broadcasts(index_html, BASE + "index.html"):
+        broadcasts_by_date[b["date"]] = b  # 直近分は index.html を優先
+    broadcasts = sorted(broadcasts_by_date.values(), key=lambda b: b["date"], reverse=True)
+    print(f"  {len(broadcasts)} 件の放送を検出", file=sys.stderr)
+
     payload = {
         "generatedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "performers": performers,
         "songs": songs,
-        "broadcasts": [],
+        "broadcasts": broadcasts,
     }
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
