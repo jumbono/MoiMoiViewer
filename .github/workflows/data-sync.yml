@@ -1,0 +1,39 @@
+name: Sync moi-moi.jp data
+
+on:
+  schedule:
+    # 毎日 21:00 UTC (日本時間 朝6時)
+    - cron: "0 21 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/scrape/requirements.txt
+
+      - name: Run scraper
+        run: python3 scripts/scrape/scrape.py data/latest.json
+
+      - name: Commit if changed
+        run: |
+          git config user.name "moi-moi-data-sync[bot]"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/latest.json
+          if git diff --cached --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "chore: sync moi-moi.jp data"
+            git push
+          fi

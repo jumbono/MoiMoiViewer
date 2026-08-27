@@ -9,7 +9,9 @@ final class DataSyncService {
     init(
         modelContext: ModelContext,
         apiClient: APIClient = APIClient(
-            dataEndpoint: URL(string: "https://example.com/moimoi-data/latest.json")!
+            dataEndpoint: URL(
+                string: "https://raw.githubusercontent.com/jumbono/MoiMoiViewer/main/data/latest.json"
+            )!
         )
     ) {
         self.modelContext = modelContext

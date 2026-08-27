@@ -1,0 +1,3346 @@
+{
+  "generatedAt": "2026-08-27T04:02:40Z",
+  "performers": [
+    {
+      "id": "hanadayuuichirou",
+      "name": "花田ゆういちろう",
+      "kana": "",
+      "role": "singing",
+      "generation": 12,
+      "tenureStart": "2017-04-01T00:00:00Z",
+      "tenureEnd": null,
+      "biography": "第12代目歌のお兄さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_hanadayuuichirou.html"
+    },
+    {
+      "id": "yokoyamadaisuke",
+      "name": "横山だいすけ",
+      "kana": "",
+      "role": "singing",
+      "generation": 11,
+      "tenureStart": "2008-04-01T00:00:00Z",
+      "tenureEnd": "2016-03-31T00:00:00Z",
+      "biography": "第11代目歌のお兄さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_yokoyamadaisuke.html"
+    },
+    {
+      "id": "imaiyuuzou",
+      "name": "今井ゆうぞう",
+      "kana": "",
+      "role": "singing",
+      "generation": 10,
+      "tenureStart": "2003-04-01T00:00:00Z",
+      "tenureEnd": "2007-03-31T00:00:00Z",
+      "biography": "第10代目歌のお兄さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_imaiyuuzou.html"
+    },
+    {
+      "id": "sugitaakihiro",
+      "name": "杉田あきひろ",
+      "kana": "",
+      "role": "singing",
+      "generation": 9,
+      "tenureStart": "1999-04-01T00:00:00Z",
+      "tenureEnd": "2002-03-31T00:00:00Z",
+      "biography": "第9代目歌のお兄さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_sugitaakihiro.html"
+    },
+    {
+      "id": "hayamikentarou",
+      "name": "速水けんたろう",
+      "kana": "",
+      "role": "singing",
+      "generation": 8,
+      "tenureStart": "1993-04-01T00:00:00Z",
+      "tenureEnd": "1998-03-31T00:00:00Z",
+      "biography": "第8代目歌のお兄さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_hayamikentarou.html"
+    },
+    {
+      "id": "sakataosamu",
+      "name": "坂田おさむ",
+      "kana": "",
+      "role": "singing",
+      "generation": 7,
+      "tenureStart": "1985-04-01T00:00:00Z",
+      "tenureEnd": "1992-03-31T00:00:00Z",
+      "biography": "第7代目歌のお兄さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_sakataosamu.html"
+    },
+    {
+      "id": "nagatamaya",
+      "name": "ながたまや",
+      "kana": "",
+      "role": "singing",
+      "generation": 22,
+      "tenureStart": "2022-04-01T00:00:00Z",
+      "tenureEnd": null,
+      "biography": "第22代目歌のお姉さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_nagatamaya.html"
+    },
+    {
+      "id": "onoatsuko",
+      "name": "小野あつこ",
+      "kana": "",
+      "role": "singing",
+      "generation": 21,
+      "tenureStart": "2016-04-01T00:00:00Z",
+      "tenureEnd": "2021-03-31T00:00:00Z",
+      "biography": "第21代目歌のお姉さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_onoatsuko.html"
+    },
+    {
+      "id": "mitanitakumi",
+      "name": "三谷たくみ",
+      "kana": "",
+      "role": "singing",
+      "generation": 20,
+      "tenureStart": "2008-04-01T00:00:00Z",
+      "tenureEnd": "2015-03-31T00:00:00Z",
+      "biography": "第20代目歌のお姉さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_mitanitakumi.html"
+    },
+    {
+      "id": "haidashouko",
+      "name": "はいだしょうこ",
+      "kana": "",
+      "role": "singing",
+      "generation": 19,
+      "tenureStart": "2003-04-01T00:00:00Z",
+      "tenureEnd": "2007-03-31T00:00:00Z",
+      "biography": "第19代目歌のお姉さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_haidashouko.html"
+    },
+    {
+      "id": "tsunodaryouko",
+      "name": "つのだりょうこ",
+      "kana": "",
+      "role": "singing",
+      "generation": 18,
+      "tenureStart": "1999-04-01T00:00:00Z",
+      "tenureEnd": "2002-03-31T00:00:00Z",
+      "biography": "第18代目歌のお姉さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_tsunodaryouko.html"
+    },
+    {
+      "id": "shigemoriayumi",
+      "name": "茂森あゆみ",
+      "kana": "",
+      "role": "singing",
+      "generation": 17,
+      "tenureStart": "1993-04-01T00:00:00Z",
+      "tenureEnd": "1998-03-31T00:00:00Z",
+      "biography": "第17代目歌のお姉さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_shigemoriayumi.html"
+    },
+    {
+      "id": "kanzakiyuuko",
+      "name": "神崎ゆう子",
+      "kana": "",
+      "role": "singing",
+      "generation": 16,
+      "tenureStart": "1987-04-01T00:00:00Z",
+      "tenureEnd": "1992-03-31T00:00:00Z",
+      "biography": "第16代目歌のお姉さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_kanzakiyuuko.html"
+    },
+    {
+      "id": "morimiyuki",
+      "name": "森みゆき",
+      "kana": "",
+      "role": "singing",
+      "generation": 15,
+      "tenureStart": "1985-04-01T00:00:00Z",
+      "tenureEnd": "1986-03-31T00:00:00Z",
+      "biography": "第15代目歌のお姉さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_morimiyuki.html"
+    },
+    {
+      "id": "sakumotokazumu",
+      "name": "佐久本和夢",
+      "kana": "",
+      "role": "gymnastics",
+      "generation": 13,
+      "tenureStart": "2023-04-01T00:00:00Z",
+      "tenureEnd": null,
+      "biography": "第13代目体操のお兄さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_sakumotokazumu.html"
+    },
+    {
+      "id": "fukuomakoto",
+      "name": "福尾誠",
+      "kana": "",
+      "role": "gymnastics",
+      "generation": 12,
+      "tenureStart": "2019-04-01T00:00:00Z",
+      "tenureEnd": "2022-03-31T00:00:00Z",
+      "biography": "第12代目体操のお兄さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_fukuomakoto.html"
+    },
+    {
+      "id": "kobayashiyoshihisa",
+      "name": "小林よしひさ",
+      "kana": "",
+      "role": "gymnastics",
+      "generation": 11,
+      "tenureStart": "2005-04-01T00:00:00Z",
+      "tenureEnd": "2018-03-31T00:00:00Z",
+      "biography": "第11代目体操のお兄さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_kobayashiyoshihisa.html"
+    },
+    {
+      "id": "satouhiromichi",
+      "name": "佐藤弘道",
+      "kana": "",
+      "role": "gymnastics",
+      "generation": 10,
+      "tenureStart": "1993-04-01T00:00:00Z",
+      "tenureEnd": "2004-03-31T00:00:00Z",
+      "biography": "第10代目体操のお兄さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_satouhiromichi.html"
+    },
+    {
+      "id": "akimotoaduki",
+      "name": "秋元杏月",
+      "kana": "",
+      "role": "other",
+      "generation": null,
+      "tenureStart": "2019-04-01T00:00:00Z",
+      "tenureEnd": null,
+      "biography": "初代体操のお姉さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_akimotoaduki.html"
+    },
+    {
+      "id": "uehararisa",
+      "name": "上原りさ",
+      "kana": "",
+      "role": "other",
+      "generation": 5,
+      "tenureStart": "2012-04-01T00:00:00Z",
+      "tenureEnd": "2018-03-31T00:00:00Z",
+      "biography": "第5代目身体表現のお姉さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_uehararisa.html"
+    },
+    {
+      "id": "itoumayu",
+      "name": "いとうまゆ",
+      "kana": "",
+      "role": "other",
+      "generation": 4,
+      "tenureStart": "2005-04-01T00:00:00Z",
+      "tenureEnd": "2011-03-31T00:00:00Z",
+      "biography": "第4代目体操のお姉さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_itoumayu.html"
+    },
+    {
+      "id": "kiyoko",
+      "name": "タリキヨコ",
+      "kana": "",
+      "role": "other",
+      "generation": 3,
+      "tenureStart": "1999-04-01T00:00:00Z",
+      "tenureEnd": "2004-03-31T00:00:00Z",
+      "biography": "第3代目体操(デ・ポン!)のお姉さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_kiyoko.html"
+    },
+    {
+      "id": "chika",
+      "name": "松野ちか",
+      "kana": "",
+      "role": "other",
+      "generation": 2,
+      "tenureStart": "1994-04-01T00:00:00Z",
+      "tenureEnd": "1998-03-31T00:00:00Z",
+      "biography": "",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_chika.html"
+    }
+  ],
+  "songs": [
+    {
+      "id": "song-2026-07",
+      "title": "はにわなダンス",
+      "category": "monthlySong",
+      "yearMonth": "2026-07-01T00:00:00Z",
+      "composer": "星部ショウ",
+      "lyricist": "桑原永江",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2026july"
+    },
+    {
+      "id": "song-2026-06",
+      "title": "おにさがしのうた",
+      "category": "monthlySong",
+      "yearMonth": "2026-06-01T00:00:00Z",
+      "composer": "栗原正己",
+      "lyricist": "俵万智",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2026june"
+    },
+    {
+      "id": "song-2026-05",
+      "title": "おかおサンドウィッチ",
+      "category": "monthlySong",
+      "yearMonth": "2026-05-01T00:00:00Z",
+      "composer": "名取将子",
+      "lyricist": "名取将子",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2026may"
+    },
+    {
+      "id": "song-2026-04",
+      "title": "あしたにむかって",
+      "category": "monthlySong",
+      "yearMonth": "2026-04-01T00:00:00Z",
+      "composer": "Shusui、石川晃士郎",
+      "lyricist": "Shusui、石川晃士郎",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2026april"
+    },
+    {
+      "id": "song-2026-03",
+      "title": "ゆきたいところへ",
+      "category": "monthlySong",
+      "yearMonth": "2026-03-01T00:00:00Z",
+      "composer": "川嶋あい",
+      "lyricist": "川嶋あい",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2026march"
+    },
+    {
+      "id": "song-2026-02",
+      "title": "ゆきたいところへ",
+      "category": "monthlySong",
+      "yearMonth": "2026-02-01T00:00:00Z",
+      "composer": "川嶋あい",
+      "lyricist": "川嶋あい",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2026february"
+    },
+    {
+      "id": "song-2026-01",
+      "title": "ピンチピンチマーチ",
+      "category": "monthlySong",
+      "yearMonth": "2026-01-01T00:00:00Z",
+      "composer": "新沢としひこ",
+      "lyricist": "新沢としひこ",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2026january"
+    },
+    {
+      "id": "song-2025-11",
+      "title": "タト・テツチをしんじるかい",
+      "category": "monthlySong",
+      "yearMonth": "2025-11-01T00:00:00Z",
+      "composer": "まつなみりか",
+      "lyricist": "亀山空",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2025november"
+    },
+    {
+      "id": "song-2025-10",
+      "title": "いいんだよ!インド洋!陰と陽!",
+      "category": "monthlySong",
+      "yearMonth": "2025-10-01T00:00:00Z",
+      "composer": "中西圭三",
+      "lyricist": "中西圭三・田角有里",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2025october"
+    },
+    {
+      "id": "song-2025-09",
+      "title": "だいすきがいっぱい",
+      "category": "monthlySong",
+      "yearMonth": "2025-09-01T00:00:00Z",
+      "composer": "増田太郎",
+      "lyricist": "横山だいすけ・ありたろう",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2025september"
+    },
+    {
+      "id": "song-2025-08",
+      "title": "ボン!とうまれたぼくたちは",
+      "category": "monthlySong",
+      "yearMonth": "2025-08-01T00:00:00Z",
+      "composer": "ヤマモトショウ",
+      "lyricist": "ヤマモトショウ",
+      "singerNames": [
+        "ゆう",
+        "ルチータ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2025august"
+    },
+    {
+      "id": "song-2025-07",
+      "title": "ごちそうサマー",
+      "category": "monthlySong",
+      "yearMonth": "2025-07-01T00:00:00Z",
+      "composer": "水野良樹",
+      "lyricist": "高橋久美子",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2025july"
+    },
+    {
+      "id": "song-2025-06",
+      "title": "ゆめみるゆっくりさん",
+      "category": "monthlySong",
+      "yearMonth": "2025-06-01T00:00:00Z",
+      "composer": "ベアグラウンド",
+      "lyricist": "日暮真三",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2025june"
+    },
+    {
+      "id": "song-2025-05",
+      "title": "がんばレンジャーズ",
+      "category": "monthlySong",
+      "yearMonth": "2025-05-01T00:00:00Z",
+      "composer": "さだまさし",
+      "lyricist": "さだまさし",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2025may"
+    },
+    {
+      "id": "song-2025-04",
+      "title": "きっとキセキ",
+      "category": "monthlySong",
+      "yearMonth": "2025-04-01T00:00:00Z",
+      "composer": "坂田修一",
+      "lyricist": "坂田修一",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2025april"
+    },
+    {
+      "id": "song-2025-03",
+      "title": "ももいろほっぺ",
+      "category": "monthlySong",
+      "yearMonth": "2025-03-01T00:00:00Z",
+      "composer": "ヤマモトショウ",
+      "lyricist": "ヤマモトショウ",
+      "singerNames": [
+        "まや",
+        "みもも"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2025march"
+    },
+    {
+      "id": "song-2025-02",
+      "title": "じゃれ愛あいあい",
+      "category": "monthlySong",
+      "yearMonth": "2025-02-01T00:00:00Z",
+      "composer": "橋田正人 石川ハルミツ",
+      "lyricist": "橋田正人 石川ハルミツ",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2025february"
+    },
+    {
+      "id": "song-2025-01",
+      "title": "みちのマーチ",
+      "category": "monthlySong",
+      "yearMonth": "2025-01-01T00:00:00Z",
+      "composer": "新沢としひこ",
+      "lyricist": "新沢としひこ",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2025january"
+    },
+    {
+      "id": "song-2024-11",
+      "title": "のりもののりたいな",
+      "category": "monthlySong",
+      "yearMonth": "2024-11-01T00:00:00Z",
+      "composer": "平野航",
+      "lyricist": "平野航",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2024november"
+    },
+    {
+      "id": "song-2024-10",
+      "title": "たからもの",
+      "category": "monthlySong",
+      "yearMonth": "2024-10-01T00:00:00Z",
+      "composer": "さだまさし",
+      "lyricist": "さだまさし",
+      "singerNames": [
+        "速水けんたろう",
+        "�@",
+        "茂森あゆみ",
+        "はいだしょうこ",
+        "横山だいすけ",
+        "ゆう",
+        "まや",
+        "�A",
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2024october"
+    },
+    {
+      "id": "song-2024-09",
+      "title": "だいじなともだち",
+      "category": "monthlySong",
+      "yearMonth": "2024-09-01T00:00:00Z",
+      "composer": "D.W.ニコルズ",
+      "lyricist": "わたなべだいすけ",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2024september"
+    },
+    {
+      "id": "song-2024-08",
+      "title": "はぴねす・ぱずる",
+      "category": "monthlySong",
+      "yearMonth": "2024-08-01T00:00:00Z",
+      "composer": "服部隆之",
+      "lyricist": "山川啓介",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2024august"
+    },
+    {
+      "id": "song-2024-07",
+      "title": "ネバネバサンバ",
+      "category": "monthlySong",
+      "yearMonth": "2024-07-01T00:00:00Z",
+      "composer": "栗原正己 佐藤雅彦",
+      "lyricist": "佐藤雅彦 貝塚智子",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2024july"
+    },
+    {
+      "id": "song-2024-06",
+      "title": "みててカーニバル",
+      "category": "monthlySong",
+      "yearMonth": "2024-06-01T00:00:00Z",
+      "composer": "村田匠",
+      "lyricist": "村田匠",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2024june"
+    },
+    {
+      "id": "song-2024-05",
+      "title": "くじらがきいている",
+      "category": "monthlySong",
+      "yearMonth": "2024-05-01T00:00:00Z",
+      "composer": "ビューティフル",
+      "lyricist": "ビューティフル",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2024may"
+    },
+    {
+      "id": "song-2024-04",
+      "title": "ヨイ!ヨイ!ヨイ!!!!",
+      "category": "monthlySong",
+      "yearMonth": "2024-04-01T00:00:00Z",
+      "composer": "えだまめンズ",
+      "lyricist": "えだまめンズ",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2024april"
+    },
+    {
+      "id": "song-2024-03",
+      "title": "ヒューララブンブン!",
+      "category": "monthlySong",
+      "yearMonth": "2024-03-01T00:00:00Z",
+      "composer": "御供信弘",
+      "lyricist": "御供信弘",
+      "singerNames": [
+        "ゆう",
+        "まや",
+        "ルチータ",
+        "みもも",
+        "やころ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2024march"
+    },
+    {
+      "id": "song-2024-02",
+      "title": "ビビビビーム!",
+      "category": "monthlySong",
+      "yearMonth": "2024-02-01T00:00:00Z",
+      "composer": "池毅",
+      "lyricist": "及川眠子",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2024february"
+    },
+    {
+      "id": "song-2024-01",
+      "title": "おべんとウィンナー",
+      "category": "monthlySong",
+      "yearMonth": "2024-01-01T00:00:00Z",
+      "composer": "平野航",
+      "lyricist": "平野航",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2024january"
+    },
+    {
+      "id": "song-2023-11",
+      "title": "ねじまきジミー",
+      "category": "monthlySong",
+      "yearMonth": "2023-11-01T00:00:00Z",
+      "composer": "加藤千晶",
+      "lyricist": "加藤千晶",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2023november"
+    },
+    {
+      "id": "song-2023-10",
+      "title": "はたらきものブギ",
+      "category": "monthlySong",
+      "yearMonth": "2023-10-01T00:00:00Z",
+      "composer": "TUCKER",
+      "lyricist": "いとうせいこう",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2023october"
+    },
+    {
+      "id": "song-2023-09",
+      "title": "にんじんエンジンロケット",
+      "category": "monthlySong",
+      "yearMonth": "2023-09-01T00:00:00Z",
+      "composer": "村田匠",
+      "lyricist": "村田匠",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2023september"
+    },
+    {
+      "id": "song-2023-07",
+      "title": "きみのえがお",
+      "category": "monthlySong",
+      "yearMonth": "2023-07-01T00:00:00Z",
+      "composer": "肥後憧子",
+      "lyricist": "Rico",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2023july"
+    },
+    {
+      "id": "song-2023-06",
+      "title": "むしむしフェスティバル",
+      "category": "monthlySong",
+      "yearMonth": "2023-06-01T00:00:00Z",
+      "composer": "かしわ哲",
+      "lyricist": "かしわ哲",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2023june"
+    },
+    {
+      "id": "song-2023-05",
+      "title": "じゅんびばんたんたん!",
+      "category": "monthlySong",
+      "yearMonth": "2023-05-01T00:00:00Z",
+      "composer": "織田哲郎",
+      "lyricist": "フジモ・トモミ",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2023may"
+    },
+    {
+      "id": "song-2023-04",
+      "title": "はっぱっぱのハーッ!",
+      "category": "monthlySong",
+      "yearMonth": "2023-04-01T00:00:00Z",
+      "composer": "堂島孝平",
+      "lyricist": "堂島孝平",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2023april"
+    },
+    {
+      "id": "song-2023-02",
+      "title": "キミにはくしゅ!",
+      "category": "monthlySong",
+      "yearMonth": "2023-02-01T00:00:00Z",
+      "composer": "増田太郎",
+      "lyricist": "ありたろう",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2023february"
+    },
+    {
+      "id": "song-2023-01",
+      "title": "地球の歌",
+      "category": "monthlySong",
+      "yearMonth": "2023-01-01T00:00:00Z",
+      "composer": "坂田修一",
+      "lyricist": "坂田修一",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2023january"
+    },
+    {
+      "id": "song-2022-11",
+      "title": "うん、いいんじゃない",
+      "category": "monthlySong",
+      "yearMonth": "2022-11-01T00:00:00Z",
+      "composer": "王舟",
+      "lyricist": "ふじきみつ彦",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2022november"
+    },
+    {
+      "id": "song-2022-10",
+      "title": "ホ・レッ!",
+      "category": "monthlySong",
+      "yearMonth": "2022-10-01T00:00:00Z",
+      "composer": "石川ハルミツ",
+      "lyricist": "桑原永江",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2022october"
+    },
+    {
+      "id": "song-2022-09",
+      "title": "しればトモダチ〜しりたガエルのけけちゃま〜",
+      "category": "monthlySong",
+      "yearMonth": "2022-09-01T00:00:00Z",
+      "composer": "荒木尚美",
+      "lyricist": "八木順一朗",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2022september"
+    },
+    {
+      "id": "song-2022-07",
+      "title": "のりまきペラパリおんど",
+      "category": "monthlySong",
+      "yearMonth": "2022-07-01T00:00:00Z",
+      "composer": "小杉保夫",
+      "lyricist": "フジモ・トモミ",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2022july"
+    },
+    {
+      "id": "song-2022-06",
+      "title": "おっきなちっちゃな物語",
+      "category": "monthlySong",
+      "yearMonth": "2022-06-01T00:00:00Z",
+      "composer": "林アキラ",
+      "lyricist": "もりちよこ",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2022june"
+    },
+    {
+      "id": "song-2022-05",
+      "title": "くだものたろう",
+      "category": "monthlySong",
+      "yearMonth": "2022-05-01T00:00:00Z",
+      "composer": "ベアグラウンド",
+      "lyricist": "おくはらゆめ",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2022may"
+    },
+    {
+      "id": "song-2022-04",
+      "title": "うらら",
+      "category": "monthlySong",
+      "yearMonth": "2022-04-01T00:00:00Z",
+      "composer": "水野良樹",
+      "lyricist": "水野良樹",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2022april"
+    },
+    {
+      "id": "song-2022-02",
+      "title": "まほうのラララ♪",
+      "category": "monthlySong",
+      "yearMonth": "2022-02-01T00:00:00Z",
+      "composer": "増田太郎",
+      "lyricist": "ありたろう・溝口貴紀",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2022february"
+    },
+    {
+      "id": "song-2022-01",
+      "title": "ブンブンにじいろカー",
+      "category": "monthlySong",
+      "yearMonth": "2022-01-01T00:00:00Z",
+      "composer": "織田哲郎",
+      "lyricist": "すずきかなこ",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2022january"
+    },
+    {
+      "id": "song-2021-11",
+      "title": "わらいごえがヨ〜デルね",
+      "category": "monthlySong",
+      "yearMonth": "2021-11-01T00:00:00Z",
+      "composer": "森大輔",
+      "lyricist": "森大輔",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2021november"
+    },
+    {
+      "id": "song-2021-10",
+      "title": "なんなん、とかとか、なーるなる",
+      "category": "monthlySong",
+      "yearMonth": "2021-10-01T00:00:00Z",
+      "composer": "レ・ロマネスクTOBI",
+      "lyricist": "レ・ロマネスクTOBI",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2021october"
+    },
+    {
+      "id": "song-2021-09",
+      "title": "むぎゃむぎゃ",
+      "category": "monthlySong",
+      "yearMonth": "2021-09-01T00:00:00Z",
+      "composer": "柴田聡子",
+      "lyricist": "柴田聡子",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2021september"
+    },
+    {
+      "id": "song-2021-07",
+      "title": "ほしのひとしずく",
+      "category": "monthlySong",
+      "yearMonth": "2021-07-01T00:00:00Z",
+      "composer": "トンチ",
+      "lyricist": "トンチ",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2021july"
+    },
+    {
+      "id": "song-2021-06",
+      "title": "そらそらそうめん",
+      "category": "monthlySong",
+      "yearMonth": "2021-06-01T00:00:00Z",
+      "composer": "あいあい",
+      "lyricist": "もりちよこ",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2021june"
+    },
+    {
+      "id": "song-2021-05",
+      "title": "ぎゅーっはかせ",
+      "category": "monthlySong",
+      "yearMonth": "2021-05-01T00:00:00Z",
+      "composer": "渋谷毅",
+      "lyricist": "二階堂和美",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2021may"
+    },
+    {
+      "id": "song-2021-04",
+      "title": "1歩2歩さんぽ",
+      "category": "monthlySong",
+      "yearMonth": "2021-04-01T00:00:00Z",
+      "composer": "えだまめンズ",
+      "lyricist": "えだまめンズ",
+      "singerNames": [
+        "ゆう",
+        "あつ",
+        "まこ",
+        "あづ",
+        "ガラピ",
+        "コぷ〜",
+        "メンバ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2021april"
+    },
+    {
+      "id": "song-2021-03",
+      "title": "ネガイゴト",
+      "category": "monthlySong",
+      "yearMonth": "2021-03-01T00:00:00Z",
+      "composer": "坂田修一",
+      "lyricist": "坂田修一",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2021march"
+    },
+    {
+      "id": "song-2021-02",
+      "title": "ネガイゴト",
+      "category": "monthlySong",
+      "yearMonth": "2021-02-01T00:00:00Z",
+      "composer": "坂田修一",
+      "lyricist": "坂田修一",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2021february"
+    },
+    {
+      "id": "song-2021-01",
+      "title": "おたすけ!およよマン",
+      "category": "monthlySong",
+      "yearMonth": "2021-01-01T00:00:00Z",
+      "composer": "増田太郎",
+      "lyricist": "オヨヨーコ。",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2021january"
+    },
+    {
+      "id": "song-2020-11",
+      "title": "あげあげドーナツ",
+      "category": "monthlySong",
+      "yearMonth": "2020-11-01T00:00:00Z",
+      "composer": "小杉保夫",
+      "lyricist": "里乃塚玲央",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2020november"
+    },
+    {
+      "id": "song-2020-10",
+      "title": "パンはパンでも!?",
+      "category": "monthlySong",
+      "yearMonth": "2020-10-01T00:00:00Z",
+      "composer": "森大輔",
+      "lyricist": "森大輔",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2020october"
+    },
+    {
+      "id": "song-2020-09",
+      "title": "きみといっしょにいると",
+      "category": "monthlySong",
+      "yearMonth": "2020-09-01T00:00:00Z",
+      "composer": "遊佐未森",
+      "lyricist": "遊佐未森",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2020september"
+    },
+    {
+      "id": "song-2020-08",
+      "title": "ブー!スカ・パーティー!",
+      "category": "monthlySong",
+      "yearMonth": "2020-08-01T00:00:00Z",
+      "composer": "かしわ哲",
+      "lyricist": "かしわ哲",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2020august"
+    },
+    {
+      "id": "song-2020-07",
+      "title": "ガンバラッパ☆ガンバル〜ン",
+      "category": "monthlySong",
+      "yearMonth": "2020-07-01T00:00:00Z",
+      "composer": "赤坂東児",
+      "lyricist": "すずきかなこ",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2020july"
+    },
+    {
+      "id": "song-2020-05",
+      "title": "すすめ!すってんすっく!",
+      "category": "monthlySong",
+      "yearMonth": "2020-05-01T00:00:00Z",
+      "composer": "吉田ゐさお",
+      "lyricist": "桑原永江",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2020may"
+    },
+    {
+      "id": "song-2020-04",
+      "title": "うちゅうにムチュー",
+      "category": "monthlySong",
+      "yearMonth": "2020-04-01T00:00:00Z",
+      "composer": "北川悠仁",
+      "lyricist": "北川悠仁",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2020april"
+    },
+    {
+      "id": "song-2020-02",
+      "title": "きみイロ",
+      "category": "monthlySong",
+      "yearMonth": "2020-02-01T00:00:00Z",
+      "composer": "えだまめンズ",
+      "lyricist": "えだまめンズ",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2020february"
+    },
+    {
+      "id": "song-2020-01",
+      "title": "ぞうのそうぞう",
+      "category": "monthlySong",
+      "yearMonth": "2020-01-01T00:00:00Z",
+      "composer": "鈴木健太",
+      "lyricist": "鍬本良太郎、丸山もも子",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2020january"
+    },
+    {
+      "id": "song-2019-11",
+      "title": "あさペラ!",
+      "category": "monthlySong",
+      "yearMonth": "2019-11-01T00:00:00Z",
+      "composer": "中西圭三",
+      "lyricist": "中西圭三、田角有里",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2019november"
+    },
+    {
+      "id": "song-2019-10",
+      "title": "てとてとパタン",
+      "category": "monthlySong",
+      "yearMonth": "2019-10-01T00:00:00Z",
+      "composer": "ユザーン",
+      "lyricist": "いとうせいこう",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2019october"
+    },
+    {
+      "id": "song-2019-09",
+      "title": "たいこムーン",
+      "category": "monthlySong",
+      "yearMonth": "2019-09-01T00:00:00Z",
+      "composer": "青柳拓次",
+      "lyricist": "うちだややこ",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2019september"
+    },
+    {
+      "id": "song-2019-07",
+      "title": "ワン・ツー・スリー!",
+      "category": "monthlySong",
+      "yearMonth": "2019-07-01T00:00:00Z",
+      "composer": "坂田修一",
+      "lyricist": "坂田めぐみ",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2019july"
+    },
+    {
+      "id": "song-2019-06",
+      "title": "はらぺこカマキリ",
+      "category": "monthlySong",
+      "yearMonth": "2019-06-01T00:00:00Z",
+      "composer": "牧野奏海",
+      "lyricist": "カマキリ先生",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2019june"
+    },
+    {
+      "id": "song-2019-05",
+      "title": "おさんぽマーチ",
+      "category": "monthlySong",
+      "yearMonth": "2019-05-01T00:00:00Z",
+      "composer": "辻林美穂",
+      "lyricist": "辻林美穂",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2019may"
+    },
+    {
+      "id": "song-2019-04",
+      "title": "ミライクルクル",
+      "category": "monthlySong",
+      "yearMonth": "2019-04-01T00:00:00Z",
+      "composer": "織田哲郎",
+      "lyricist": "もりちよこ",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2019april"
+    },
+    {
+      "id": "song-2019-02",
+      "title": "ぴかぴかすまいる",
+      "category": "monthlySong",
+      "yearMonth": "2019-02-01T00:00:00Z",
+      "composer": "水野良樹",
+      "lyricist": "水野良樹",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2019february"
+    },
+    {
+      "id": "song-2019-01",
+      "title": "さがそっ!",
+      "category": "monthlySong",
+      "yearMonth": "2019-01-01T00:00:00Z",
+      "composer": "kosekibeatz",
+      "lyricist": "さいとういんこ",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2019january"
+    },
+    {
+      "id": "song-2018-11",
+      "title": "デビル・ビビる・ガンバる!",
+      "category": "monthlySong",
+      "yearMonth": "2018-11-01T00:00:00Z",
+      "composer": "石川ハルミツ",
+      "lyricist": "石川ハルミツ",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2018november"
+    },
+    {
+      "id": "song-2018-10",
+      "title": "かたっぽちゃんとかたっぽちゃん",
+      "category": "monthlySong",
+      "yearMonth": "2018-10-01T00:00:00Z",
+      "composer": "石毛里佳",
+      "lyricist": "桑原永江",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2018october"
+    },
+    {
+      "id": "song-2018-09",
+      "title": "やさしいうた",
+      "category": "monthlySong",
+      "yearMonth": "2018-09-01T00:00:00Z",
+      "composer": "坂田修一",
+      "lyricist": "坂田修一",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2018september"
+    },
+    {
+      "id": "song-2018-07",
+      "title": "ゾクゾクうんどうかい",
+      "category": "monthlySong",
+      "yearMonth": "2018-07-01T00:00:00Z",
+      "composer": "小春(チャラン・",
+      "lyricist": "小春(チャラン・",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2018july"
+    },
+    {
+      "id": "song-2018-06",
+      "title": "きらららダンス",
+      "category": "monthlySong",
+      "yearMonth": "2018-06-01T00:00:00Z",
+      "composer": "DE DE MOUSE",
+      "lyricist": "遠藤大介",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2018june"
+    },
+    {
+      "id": "song-2018-05",
+      "title": "いるよ",
+      "category": "monthlySong",
+      "yearMonth": "2018-05-01T00:00:00Z",
+      "composer": "細野晴臣",
+      "lyricist": "谷川俊太郎",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2018may"
+    },
+    {
+      "id": "song-2018-04",
+      "title": "なないろのしゃぼんだま",
+      "category": "monthlySong",
+      "yearMonth": "2018-04-01T00:00:00Z",
+      "composer": "遊佐未森",
+      "lyricist": "遊佐未森",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2018april"
+    },
+    {
+      "id": "song-2018-02",
+      "title": "おはよう!",
+      "category": "monthlySong",
+      "yearMonth": "2018-02-01T00:00:00Z",
+      "composer": "福田翔",
+      "lyricist": "福田翔",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2018february"
+    },
+    {
+      "id": "song-2018-01",
+      "title": "もくもくふゆーん",
+      "category": "monthlySong",
+      "yearMonth": "2018-01-01T00:00:00Z",
+      "composer": "ビューティフル",
+      "lyricist": "加藤還一",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2018january"
+    },
+    {
+      "id": "song-2017-11",
+      "title": "オカリナのリーナ",
+      "category": "monthlySong",
+      "yearMonth": "2017-11-01T00:00:00Z",
+      "composer": "君塚仁子",
+      "lyricist": "さいとういんこ",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2017november"
+    },
+    {
+      "id": "song-2017-10",
+      "title": "おまめ戦隊ビビンビ〜ン",
+      "category": "monthlySong",
+      "yearMonth": "2017-10-01T00:00:00Z",
+      "composer": "小杉保夫",
+      "lyricist": "もりちよこ",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2017october"
+    },
+    {
+      "id": "song-2017-09",
+      "title": "にんじゃきりん",
+      "category": "monthlySong",
+      "yearMonth": "2017-09-01T00:00:00Z",
+      "composer": "渋谷毅",
+      "lyricist": "高田ひろお",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2017september"
+    },
+    {
+      "id": "song-2017-07",
+      "title": "ぱんぱかぱんぱんぱーん",
+      "category": "monthlySong",
+      "yearMonth": "2017-07-01T00:00:00Z",
+      "composer": "水野良樹",
+      "lyricist": "水野良樹",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2017july"
+    },
+    {
+      "id": "song-2017-06",
+      "title": "あめのひドキドキ",
+      "category": "monthlySong",
+      "yearMonth": "2017-06-01T00:00:00Z",
+      "composer": "牧野奏海",
+      "lyricist": "浦野紘彰",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2017june"
+    },
+    {
+      "id": "song-2017-05",
+      "title": "とり",
+      "category": "monthlySong",
+      "yearMonth": "2017-05-01T00:00:00Z",
+      "composer": "つだみさこ",
+      "lyricist": "つだみさこ",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2017may"
+    },
+    {
+      "id": "song-2017-04",
+      "title": "そよかぜスニーカー",
+      "category": "monthlySong",
+      "yearMonth": "2017-04-01T00:00:00Z",
+      "composer": "林アキラ",
+      "lyricist": "井出隆夫",
+      "singerNames": [
+        "ゆう",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2017april"
+    },
+    {
+      "id": "song-2017-02",
+      "title": "やくそくハーイ!",
+      "category": "monthlySong",
+      "yearMonth": "2017-02-01T00:00:00Z",
+      "composer": "坂田おさむ",
+      "lyricist": "坂田おさむ",
+      "singerNames": [
+        "だい",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2017february"
+    },
+    {
+      "id": "song-2017-01",
+      "title": "ふゆのあいだ",
+      "category": "monthlySong",
+      "yearMonth": "2017-01-01T00:00:00Z",
+      "composer": "南方美智子",
+      "lyricist": "松本あかね",
+      "singerNames": [
+        "だい",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2017january"
+    },
+    {
+      "id": "song-2016-11",
+      "title": "シェイクシェイクげんき!",
+      "category": "monthlySong",
+      "yearMonth": "2016-11-01T00:00:00Z",
+      "composer": "あおぞらすかい",
+      "lyricist": "さいとういんこ",
+      "singerNames": [
+        "だい",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2016november"
+    },
+    {
+      "id": "song-2016-10",
+      "title": "まあるいせかい",
+      "category": "monthlySong",
+      "yearMonth": "2016-10-01T00:00:00Z",
+      "composer": "柴草玲",
+      "lyricist": "木庭撫子",
+      "singerNames": [
+        "だい",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2016october"
+    },
+    {
+      "id": "song-2016-09",
+      "title": "すっぱすっぱすっぴょ!",
+      "category": "monthlySong",
+      "yearMonth": "2016-09-01T00:00:00Z",
+      "composer": "種ともこ",
+      "lyricist": "おくはらゆめ",
+      "singerNames": [
+        "だい",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2016september"
+    },
+    {
+      "id": "song-2016-07",
+      "title": "まほうのくつ",
+      "category": "monthlySong",
+      "yearMonth": "2016-07-01T00:00:00Z",
+      "composer": "牧野奏海",
+      "lyricist": "野口時男・大野恭子",
+      "singerNames": [
+        "だい",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2016july"
+    },
+    {
+      "id": "song-2016-06",
+      "title": "おしゃれフルーツ",
+      "category": "monthlySong",
+      "yearMonth": "2016-06-01T00:00:00Z",
+      "composer": "渋谷毅",
+      "lyricist": "日暮真三",
+      "singerNames": [
+        "だい",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2016june"
+    },
+    {
+      "id": "song-2016-05",
+      "title": "わらうおばけ",
+      "category": "monthlySong",
+      "yearMonth": "2016-05-01T00:00:00Z",
+      "composer": "櫻井映子",
+      "lyricist": "高田ひろお",
+      "singerNames": [
+        "だい",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2016may"
+    },
+    {
+      "id": "song-2016-04",
+      "title": "あおうよ!",
+      "category": "monthlySong",
+      "yearMonth": "2016-04-01T00:00:00Z",
+      "composer": "速水けんたろう",
+      "lyricist": "もりちよこ",
+      "singerNames": [
+        "だい",
+        "あつ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2016april"
+    },
+    {
+      "id": "song-2016-02",
+      "title": "キミといっしょに",
+      "category": "monthlySong",
+      "yearMonth": "2016-02-01T00:00:00Z",
+      "composer": "金城綾乃",
+      "lyricist": "金城綾乃",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2016february"
+    },
+    {
+      "id": "song-2016-01",
+      "title": "つるのワルツ",
+      "category": "monthlySong",
+      "yearMonth": "2016-01-01T00:00:00Z",
+      "composer": "つだみさこ",
+      "lyricist": "つだみさこ",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2016january"
+    },
+    {
+      "id": "song-2015-11",
+      "title": "メダルあげます",
+      "category": "monthlySong",
+      "yearMonth": "2015-11-01T00:00:00Z",
+      "composer": "坂田おさむ",
+      "lyricist": "坂田おさむ",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2015november"
+    },
+    {
+      "id": "song-2015-10",
+      "title": "ガチャゴチャガンボ!",
+      "category": "monthlySong",
+      "yearMonth": "2015-10-01T00:00:00Z",
+      "composer": "加藤千晶",
+      "lyricist": "加藤千晶",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2015october"
+    },
+    {
+      "id": "song-2015-09",
+      "title": "おもちゃのブルース",
+      "category": "monthlySong",
+      "yearMonth": "2015-09-01T00:00:00Z",
+      "composer": "久住昌之",
+      "lyricist": "大島亜佐子",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2015september"
+    },
+    {
+      "id": "song-2015-07",
+      "title": "なんでもあらいぐま",
+      "category": "monthlySong",
+      "yearMonth": "2015-07-01T00:00:00Z",
+      "composer": "遊佐未森",
+      "lyricist": "遊佐未森",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2015july"
+    },
+    {
+      "id": "song-2015-06",
+      "title": "ひかるみらい",
+      "category": "monthlySong",
+      "yearMonth": "2015-06-01T00:00:00Z",
+      "composer": "高野康弘",
+      "lyricist": "木村優作",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2015june"
+    },
+    {
+      "id": "song-2015-05",
+      "title": "シール☆ハレハレ!",
+      "category": "monthlySong",
+      "yearMonth": "2015-05-01T00:00:00Z",
+      "composer": "大橋恵",
+      "lyricist": "桑原永江",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2015may"
+    },
+    {
+      "id": "song-2015-04",
+      "title": "おひさまーち",
+      "category": "monthlySong",
+      "yearMonth": "2015-04-01T00:00:00Z",
+      "composer": "ROCO",
+      "lyricist": "ROCO",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2015april"
+    },
+    {
+      "id": "song-2015-02",
+      "title": "あくびがビブベバ",
+      "category": "monthlySong",
+      "yearMonth": "2015-02-01T00:00:00Z",
+      "composer": "バンバザール",
+      "lyricist": "もりちよこ",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2015february"
+    },
+    {
+      "id": "song-2015-01",
+      "title": "ゆきだるまのルー",
+      "category": "monthlySong",
+      "yearMonth": "2015-01-01T00:00:00Z",
+      "composer": "栗原正己",
+      "lyricist": "おーなり由子",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2015january"
+    },
+    {
+      "id": "song-2014-11",
+      "title": "きみ",
+      "category": "monthlySong",
+      "yearMonth": "2014-11-01T00:00:00Z",
+      "composer": "つだみさこ",
+      "lyricist": "つだみさこ",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2014november"
+    },
+    {
+      "id": "song-2014-10",
+      "title": "ぐいーん・ぱっ",
+      "category": "monthlySong",
+      "yearMonth": "2014-10-01T00:00:00Z",
+      "composer": "はしもとひろし",
+      "lyricist": "さいとういんこ",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2014october"
+    },
+    {
+      "id": "song-2014-09",
+      "title": "カオカオカ〜オ",
+      "category": "monthlySong",
+      "yearMonth": "2014-09-01T00:00:00Z",
+      "composer": "牧野奏海",
+      "lyricist": "里乃塚玲央",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2014september"
+    },
+    {
+      "id": "song-2014-07",
+      "title": "モシモシだいすき!",
+      "category": "monthlySong",
+      "yearMonth": "2014-07-01T00:00:00Z",
+      "composer": "近藤研二",
+      "lyricist": "青島利幸",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2014july"
+    },
+    {
+      "id": "song-2014-06",
+      "title": "みんなのリズム",
+      "category": "monthlySong",
+      "yearMonth": "2014-06-01T00:00:00Z",
+      "composer": "中西圭三",
+      "lyricist": "中西圭三、田角有里",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2014june"
+    },
+    {
+      "id": "song-2014-05",
+      "title": "どんがらどんどんどらやき!",
+      "category": "monthlySong",
+      "yearMonth": "2014-05-01T00:00:00Z",
+      "composer": "濱田理恵",
+      "lyricist": "濱田理恵",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2014may"
+    },
+    {
+      "id": "song-2014-04",
+      "title": "じゃくじゃくあまのじゃく",
+      "category": "monthlySong",
+      "yearMonth": "2014-04-01T00:00:00Z",
+      "composer": "くもゆき",
+      "lyricist": "ふじきみつ彦",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2014april"
+    },
+    {
+      "id": "song-2014-02",
+      "title": "地球ぴょんぴょん",
+      "category": "monthlySong",
+      "yearMonth": "2014-02-01T00:00:00Z",
+      "composer": "坂田おさむ",
+      "lyricist": "坂田おさむ",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2014february"
+    },
+    {
+      "id": "song-2014-01",
+      "title": "冬の娘(ふゆのこ)リッカロッカ",
+      "category": "monthlySong",
+      "yearMonth": "2014-01-01T00:00:00Z",
+      "composer": "櫻井映子",
+      "lyricist": "大島亜佐子",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2014january"
+    },
+    {
+      "id": "song-2013-11",
+      "title": "ようかいしりとり",
+      "category": "monthlySong",
+      "yearMonth": "2013-11-01T00:00:00Z",
+      "composer": "種ともこ",
+      "lyricist": "おくはらゆめ",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2013november"
+    },
+    {
+      "id": "song-2013-10",
+      "title": "カラスのかっくん",
+      "category": "monthlySong",
+      "yearMonth": "2013-10-01T00:00:00Z",
+      "composer": "赤坂東児",
+      "lyricist": "高田ひろお",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2013october"
+    },
+    {
+      "id": "song-2013-09",
+      "title": "ぶんぶんブランコ",
+      "category": "monthlySong",
+      "yearMonth": "2013-09-01T00:00:00Z",
+      "composer": "悠木昭宏",
+      "lyricist": "さいとういんこ",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2013september"
+    },
+    {
+      "id": "song-2013-07",
+      "title": "しわしわしわわ",
+      "category": "monthlySong",
+      "yearMonth": "2013-07-01T00:00:00Z",
+      "composer": "つじあやの",
+      "lyricist": "つじあやの",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2013july"
+    },
+    {
+      "id": "song-2013-06",
+      "title": "おさんぽクンクン",
+      "category": "monthlySong",
+      "yearMonth": "2013-06-01T00:00:00Z",
+      "composer": "柴草玲",
+      "lyricist": "工藤順子",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2013june"
+    },
+    {
+      "id": "song-2013-05",
+      "title": "チュルチュルチュルルン",
+      "category": "monthlySong",
+      "yearMonth": "2013-05-01T00:00:00Z",
+      "composer": "石川ハルミツ",
+      "lyricist": "関和男",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2013may"
+    },
+    {
+      "id": "song-2013-04",
+      "title": "ポンヌフのたまご",
+      "category": "monthlySong",
+      "yearMonth": "2013-04-01T00:00:00Z",
+      "composer": "佐藤良成",
+      "lyricist": "佐藤良成",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2013april"
+    },
+    {
+      "id": "song-2013-01",
+      "title": "いえイェイ!!",
+      "category": "monthlySong",
+      "yearMonth": "2013-01-01T00:00:00Z",
+      "composer": "牧野奏海",
+      "lyricist": "松本あかね",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2013january"
+    },
+    {
+      "id": "song-2012-10",
+      "title": "ゴロプポジャカジャカ!",
+      "category": "monthlySong",
+      "yearMonth": "2012-10-01T00:00:00Z",
+      "composer": "小杉保夫",
+      "lyricist": "大森祥子",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2012october"
+    },
+    {
+      "id": "song-2012-09",
+      "title": "モラモラマンボウ",
+      "category": "monthlySong",
+      "yearMonth": "2012-09-01T00:00:00Z",
+      "composer": "石川ハルミツ",
+      "lyricist": "東龍男",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2012september"
+    },
+    {
+      "id": "song-2012-06",
+      "title": "じっとまったくん",
+      "category": "monthlySong",
+      "yearMonth": "2012-06-01T00:00:00Z",
+      "composer": "渋谷毅",
+      "lyricist": "小川美潮",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2012june"
+    },
+    {
+      "id": "song-2012-05",
+      "title": "パンパパ・パン",
+      "category": "monthlySong",
+      "yearMonth": "2012-05-01T00:00:00Z",
+      "composer": "ポカスカジャン",
+      "lyricist": "もりちょこパン",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2012may"
+    },
+    {
+      "id": "song-2012-04",
+      "title": "ハートがいっぱい",
+      "category": "monthlySong",
+      "yearMonth": "2012-04-01T00:00:00Z",
+      "composer": "悠木昭宏",
+      "lyricist": "さいとういんこ",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2012april"
+    },
+    {
+      "id": "song-2012-01",
+      "title": "モンスタップ",
+      "category": "monthlySong",
+      "yearMonth": "2012-01-01T00:00:00Z",
+      "composer": "川嶋可能",
+      "lyricist": "伊藤美和",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2012january"
+    },
+    {
+      "id": "song-2011-10",
+      "title": "ねこ ときどき らいおん",
+      "category": "monthlySong",
+      "yearMonth": "2011-10-01T00:00:00Z",
+      "composer": "藤本ともひこ",
+      "lyricist": "藤本ともひこ",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2011october"
+    },
+    {
+      "id": "song-2011-09",
+      "title": "こんやこんにゃく",
+      "category": "monthlySong",
+      "yearMonth": "2011-09-01T00:00:00Z",
+      "composer": "牧野奏海",
+      "lyricist": "すずきかなこ",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2011september"
+    },
+    {
+      "id": "song-2011-06",
+      "title": "新幹線でゴー!ゴ・ゴー!",
+      "category": "monthlySong",
+      "yearMonth": "2011-06-01T00:00:00Z",
+      "composer": "赤坂東児",
+      "lyricist": "青島利幸",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2011june"
+    },
+    {
+      "id": "song-2011-05",
+      "title": "キッチンオーケストラ",
+      "category": "monthlySong",
+      "yearMonth": "2011-05-01T00:00:00Z",
+      "composer": "堀井勝美",
+      "lyricist": "坂田おさむ",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2011may"
+    },
+    {
+      "id": "song-2011-04",
+      "title": "えがおでいこう",
+      "category": "monthlySong",
+      "yearMonth": "2011-04-01T00:00:00Z",
+      "composer": "小宮山 雄飛",
+      "lyricist": "小宮山 雄飛",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2011april"
+    },
+    {
+      "id": "song-2011-01",
+      "title": "リンゴントウ",
+      "category": "monthlySong",
+      "yearMonth": "2011-01-01T00:00:00Z",
+      "composer": "栗原正己",
+      "lyricist": "おーなり由子",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2011january"
+    },
+    {
+      "id": "song-2010-10",
+      "title": "まほうのとびら",
+      "category": "monthlySong",
+      "yearMonth": "2010-10-01T00:00:00Z",
+      "composer": "高野康弘",
+      "lyricist": "アメモリネムリ",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2010october"
+    },
+    {
+      "id": "song-2010-09",
+      "title": "ドコノコノキノコ",
+      "category": "monthlySong",
+      "yearMonth": "2010-09-01T00:00:00Z",
+      "composer": "ザッハトルテ",
+      "lyricist": "もりちよこ",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2010september"
+    },
+    {
+      "id": "song-2010-06",
+      "title": "きらきらきらりん・みゅーじかる",
+      "category": "monthlySong",
+      "yearMonth": "2010-06-01T00:00:00Z",
+      "composer": "斎藤ネコ",
+      "lyricist": "井出隆夫",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2010june"
+    },
+    {
+      "id": "song-2010-05",
+      "title": "ジューキーズこうじちゅう!",
+      "category": "monthlySong",
+      "yearMonth": "2010-05-01T00:00:00Z",
+      "composer": "大橋 恵",
+      "lyricist": "桑原 永江",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2010may"
+    },
+    {
+      "id": "song-2010-04",
+      "title": "コロンパッ",
+      "category": "monthlySong",
+      "yearMonth": "2010-04-01T00:00:00Z",
+      "composer": "川嶋 可能",
+      "lyricist": "久和 カノン",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2010april"
+    },
+    {
+      "id": "song-2010-01",
+      "title": "ひみつのパレード",
+      "category": "monthlySong",
+      "yearMonth": "2010-01-01T00:00:00Z",
+      "composer": "鴨宮 諒",
+      "lyricist": "工藤順子",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2010january"
+    },
+    {
+      "id": "song-2009-10",
+      "title": "ありがとうの花",
+      "category": "monthlySong",
+      "yearMonth": "2009-10-01T00:00:00Z",
+      "composer": "坂田修",
+      "lyricist": "坂田修",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2009october"
+    },
+    {
+      "id": "song-2009-09",
+      "title": "ボロボロロケット",
+      "category": "monthlySong",
+      "yearMonth": "2009-09-01T00:00:00Z",
+      "composer": "CHI-MEY",
+      "lyricist": "CHI-MEY",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2009september"
+    },
+    {
+      "id": "song-2009-06",
+      "title": "ほっとけーきは すてき",
+      "category": "monthlySong",
+      "yearMonth": "2009-06-01T00:00:00Z",
+      "composer": "加藤千晶",
+      "lyricist": "加藤千晶",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2009june"
+    },
+    {
+      "id": "song-2009-05",
+      "title": "ド!ド!ド!ドラゴン",
+      "category": "monthlySong",
+      "yearMonth": "2009-05-01T00:00:00Z",
+      "composer": "三澤 康広",
+      "lyricist": "里乃塚 玲央",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2009may"
+    },
+    {
+      "id": "song-2009-04",
+      "title": "ごめんください、めんください。",
+      "category": "monthlySong",
+      "yearMonth": "2009-04-01T00:00:00Z",
+      "composer": "小杉 保夫",
+      "lyricist": "もり ちよこ",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2009april"
+    },
+    {
+      "id": "song-2009-01",
+      "title": "ドンスカパンパンおうえんだん",
+      "category": "monthlySong",
+      "yearMonth": "2009-01-01T00:00:00Z",
+      "composer": "西脇辰弥",
+      "lyricist": "山田ひろし",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2009january"
+    },
+    {
+      "id": "song-2008-10",
+      "title": "青い空を見あげて",
+      "category": "monthlySong",
+      "yearMonth": "2008-10-01T00:00:00Z",
+      "composer": "赤坂東児",
+      "lyricist": "桑原永江",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2008october"
+    },
+    {
+      "id": "song-2008-09",
+      "title": "魔法のピンク",
+      "category": "monthlySong",
+      "yearMonth": "2008-09-01T00:00:00Z",
+      "composer": "さだまさし",
+      "lyricist": "さだまさし",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2008september"
+    },
+    {
+      "id": "song-2008-06",
+      "title": "ながぐっちゃん!!",
+      "category": "monthlySong",
+      "yearMonth": "2008-06-01T00:00:00Z",
+      "composer": "柴草玲",
+      "lyricist": "もりちよこ",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2008june"
+    },
+    {
+      "id": "song-2008-05",
+      "title": "まんまるスマイル",
+      "category": "monthlySong",
+      "yearMonth": "2008-05-01T00:00:00Z",
+      "composer": "中西圭三",
+      "lyricist": "中西圭三、田角有里",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2008may"
+    },
+    {
+      "id": "song-2008-04",
+      "title": "はじめて はじめまして",
+      "category": "monthlySong",
+      "yearMonth": "2008-04-01T00:00:00Z",
+      "composer": "福田 和禾子",
+      "lyricist": "日暮 真三",
+      "singerNames": [
+        "だい",
+        "たく"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2008april"
+    },
+    {
+      "id": "song-2008-03",
+      "title": "君に会えたから",
+      "category": "monthlySong",
+      "yearMonth": "2008-03-01T00:00:00Z",
+      "composer": "坂田修",
+      "lyricist": "坂田修",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2008march"
+    },
+    {
+      "id": "song-2008-02",
+      "title": "だじゃれだゾ〜",
+      "category": "monthlySong",
+      "yearMonth": "2008-02-01T00:00:00Z",
+      "composer": "中川ひろたか",
+      "lyricist": "中川ひろたか",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2008february"
+    },
+    {
+      "id": "song-2008-01",
+      "title": "ゆめのかけら",
+      "category": "monthlySong",
+      "yearMonth": "2008-01-01T00:00:00Z",
+      "composer": "西脇辰弥",
+      "lyricist": "白峰美津子・吉田隆",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2008january"
+    },
+    {
+      "id": "song-2007-10",
+      "title": "こまったゾウさん",
+      "category": "monthlySong",
+      "yearMonth": "2007-10-01T00:00:00Z",
+      "composer": "悠木昭宏",
+      "lyricist": "さいとういんこ",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2007october"
+    },
+    {
+      "id": "song-2007-09",
+      "title": "夢の中のダンス",
+      "category": "monthlySong",
+      "yearMonth": "2007-09-01T00:00:00Z",
+      "composer": "坂田修",
+      "lyricist": "坂田修",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2007september"
+    },
+    {
+      "id": "song-2007-06",
+      "title": "どうしてしらんぷり",
+      "category": "monthlySong",
+      "yearMonth": "2007-06-01T00:00:00Z",
+      "composer": "濱田理恵",
+      "lyricist": "きむらゆういち",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2007june"
+    },
+    {
+      "id": "song-2007-05",
+      "title": "ぴかぴかじてんしゃ",
+      "category": "monthlySong",
+      "yearMonth": "2007-05-01T00:00:00Z",
+      "composer": "ヒロチカーノ",
+      "lyricist": "秋吉 圭",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2007may"
+    },
+    {
+      "id": "song-2007-04",
+      "title": "おひさまクリーム",
+      "category": "monthlySong",
+      "yearMonth": "2007-04-01T00:00:00Z",
+      "composer": "下田 義浩",
+      "lyricist": "李 醒獅",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2007april"
+    },
+    {
+      "id": "song-2007-01",
+      "title": "雪だるまのまほう",
+      "category": "monthlySong",
+      "yearMonth": "2007-01-01T00:00:00Z",
+      "composer": "大森俊之",
+      "lyricist": "高橋亜子",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2007january"
+    },
+    {
+      "id": "song-2006-10",
+      "title": "やるきまんまんマンとウーマン",
+      "category": "monthlySong",
+      "yearMonth": "2006-10-01T00:00:00Z",
+      "composer": "小杉保夫",
+      "lyricist": "里乃塚玲央",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2006october"
+    },
+    {
+      "id": "song-2006-09",
+      "title": "おっとっとのオットセイ",
+      "category": "monthlySong",
+      "yearMonth": "2006-09-01T00:00:00Z",
+      "composer": "村治崇光",
+      "lyricist": "のぶみ",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2006september"
+    },
+    {
+      "id": "song-2006-06",
+      "title": "ガリダリシュッポン!",
+      "category": "monthlySong",
+      "yearMonth": "2006-06-01T00:00:00Z",
+      "composer": "羽岡佳",
+      "lyricist": "高柳恋/JUN",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2006june"
+    },
+    {
+      "id": "song-2006-05",
+      "title": "まっしろしろすけ",
+      "category": "monthlySong",
+      "yearMonth": "2006-05-01T00:00:00Z",
+      "composer": "柴草玲",
+      "lyricist": "柴草玲",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2006may"
+    },
+    {
+      "id": "song-2006-04",
+      "title": "ぼよよん行進曲",
+      "category": "monthlySong",
+      "yearMonth": "2006-04-01T00:00:00Z",
+      "composer": "中西圭三",
+      "lyricist": "中西圭三、田角有里",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2006april"
+    },
+    {
+      "id": "song-2006-01",
+      "title": "わ!",
+      "category": "monthlySong",
+      "yearMonth": "2006-01-01T00:00:00Z",
+      "composer": "福田和禾子",
+      "lyricist": "大谷恵美",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2006january"
+    },
+    {
+      "id": "song-2005-10",
+      "title": "ママゴリラ",
+      "category": "monthlySong",
+      "yearMonth": "2005-10-01T00:00:00Z",
+      "composer": "大森俊之",
+      "lyricist": "高橋洋子",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2005october"
+    },
+    {
+      "id": "song-2005-09",
+      "title": "みなみのしまのこどもたち",
+      "category": "monthlySong",
+      "yearMonth": "2005-09-01T00:00:00Z",
+      "composer": "池毅",
+      "lyricist": "小室等",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2005september"
+    },
+    {
+      "id": "song-2005-06",
+      "title": "パパパ",
+      "category": "monthlySong",
+      "yearMonth": "2005-06-01T00:00:00Z",
+      "composer": "中川ひろたか",
+      "lyricist": "のぶみ",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2005june"
+    },
+    {
+      "id": "song-2005-05",
+      "title": "木もれ日のうた",
+      "category": "monthlySong",
+      "yearMonth": "2005-05-01T00:00:00Z",
+      "composer": "渋谷毅",
+      "lyricist": "日暮真三",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2005may"
+    },
+    {
+      "id": "song-2005-04",
+      "title": "いっしょにつくったら",
+      "category": "monthlySong",
+      "yearMonth": "2005-04-01T00:00:00Z",
+      "composer": "谷本新",
+      "lyricist": "谷山浩子",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2005april"
+    },
+    {
+      "id": "song-2005-01",
+      "title": "おしりフリフリ",
+      "category": "monthlySong",
+      "yearMonth": "2005-01-01T00:00:00Z",
+      "composer": "中川ひろたか",
+      "lyricist": "のぶみ",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2005january"
+    },
+    {
+      "id": "song-2004-10",
+      "title": "とんでもトン吉",
+      "category": "monthlySong",
+      "yearMonth": "2004-10-01T00:00:00Z",
+      "composer": "坂田修",
+      "lyricist": "坂田修",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2004october"
+    },
+    {
+      "id": "song-2004-09",
+      "title": "あのね、あきはね",
+      "category": "monthlySong",
+      "yearMonth": "2004-09-01T00:00:00Z",
+      "composer": "SHIKAMON",
+      "lyricist": "もりちよこ",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2004september"
+    },
+    {
+      "id": "song-2004-06",
+      "title": "わくわくスーパーマーケット",
+      "category": "monthlySong",
+      "yearMonth": "2004-06-01T00:00:00Z",
+      "composer": "西田マサラ",
+      "lyricist": "さねよしいさこ",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2004june"
+    },
+    {
+      "id": "song-2004-05",
+      "title": "風のおはなし",
+      "category": "monthlySong",
+      "yearMonth": "2004-05-01T00:00:00Z",
+      "composer": "坂田修",
+      "lyricist": "坂田修",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2004may"
+    },
+    {
+      "id": "song-2004-04",
+      "title": "ぺたぺたぺったんこ",
+      "category": "monthlySong",
+      "yearMonth": "2004-04-01T00:00:00Z",
+      "composer": "赤坂東児",
+      "lyricist": "すずきかなこ",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2004april"
+    },
+    {
+      "id": "song-2004-01",
+      "title": "キュキューンがすき",
+      "category": "monthlySong",
+      "yearMonth": "2004-01-01T00:00:00Z",
+      "composer": "福田和禾子",
+      "lyricist": "村田さち子",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2004january"
+    },
+    {
+      "id": "song-2003-10",
+      "title": "地球ネコ",
+      "category": "monthlySong",
+      "yearMonth": "2003-10-01T00:00:00Z",
+      "composer": "平沢進",
+      "lyricist": "平沢進",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2003october"
+    },
+    {
+      "id": "song-2003-09",
+      "title": "たこのくるんぱ",
+      "category": "monthlySong",
+      "yearMonth": "2003-09-01T00:00:00Z",
+      "composer": "坂出雅海",
+      "lyricist": "すずきかなこ",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2003september"
+    },
+    {
+      "id": "song-2003-06",
+      "title": "ぼくときみ",
+      "category": "monthlySong",
+      "yearMonth": "2003-06-01T00:00:00Z",
+      "composer": "福井洋介",
+      "lyricist": "鍬本良太郎",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2003june"
+    },
+    {
+      "id": "song-2003-05",
+      "title": "タンポポ団にはいろう!!",
+      "category": "monthlySong",
+      "yearMonth": "2003-05-01T00:00:00Z",
+      "composer": "坂田修",
+      "lyricist": "坂田修",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2003may"
+    },
+    {
+      "id": "song-2003-04",
+      "title": "このゆびとまれ",
+      "category": "monthlySong",
+      "yearMonth": "2003-04-01T00:00:00Z",
+      "composer": "赤坂東児",
+      "lyricist": "日暮真三",
+      "singerNames": [
+        "ゆう",
+        "しょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2003april"
+    },
+    {
+      "id": "song-2003-01",
+      "title": "ほめられて、メラメラ めっ!",
+      "category": "monthlySong",
+      "yearMonth": "2003-01-01T00:00:00Z",
+      "composer": "小杉保夫",
+      "lyricist": "里乃塚玲央",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2003january"
+    },
+    {
+      "id": "song-2002-10",
+      "title": "ジャバ・ジャバ・ビバ・ドゥー",
+      "category": "monthlySong",
+      "yearMonth": "2002-10-01T00:00:00Z",
+      "composer": "服部隆之",
+      "lyricist": "並河祥太",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2002october"
+    },
+    {
+      "id": "song-2002-09",
+      "title": "にじ・そら・ほし・せかい",
+      "category": "monthlySong",
+      "yearMonth": "2002-09-01T00:00:00Z",
+      "composer": "吉良知彦",
+      "lyricist": "小峰公子",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2002september"
+    },
+    {
+      "id": "song-2002-06",
+      "title": "おてんき じどうはんばいき",
+      "category": "monthlySong",
+      "yearMonth": "2002-06-01T00:00:00Z",
+      "composer": "福田和禾子",
+      "lyricist": "桑原永江",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2002june"
+    },
+    {
+      "id": "song-2002-05",
+      "title": "ちょー ちっちゃい話",
+      "category": "monthlySong",
+      "yearMonth": "2002-05-01T00:00:00Z",
+      "composer": "濱田理恵",
+      "lyricist": "三浦徳子",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2002may"
+    },
+    {
+      "id": "song-2002-04",
+      "title": "たまごまごまご",
+      "category": "monthlySong",
+      "yearMonth": "2002-04-01T00:00:00Z",
+      "composer": "赤坂東児",
+      "lyricist": "すずきかなこ",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2002april"
+    },
+    {
+      "id": "song-2002-01",
+      "title": "あかりをともそう",
+      "category": "monthlySong",
+      "yearMonth": "2002-01-01T00:00:00Z",
+      "composer": "若草恵",
+      "lyricist": "村雲一元",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2002january"
+    },
+    {
+      "id": "song-2001-12",
+      "title": "冬のないない気のいい王さまのおはなし",
+      "category": "monthlySong",
+      "yearMonth": "2001-12-01T00:00:00Z",
+      "composer": "福田和禾子",
+      "lyricist": "もりちよこ",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2001december"
+    },
+    {
+      "id": "song-2001-11",
+      "title": "ビックリ・タマゲタ",
+      "category": "monthlySong",
+      "yearMonth": "2001-11-01T00:00:00Z",
+      "composer": "坂出雅海",
+      "lyricist": "たかいよしかず",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2001november"
+    },
+    {
+      "id": "song-2001-10",
+      "title": "あさごはんマーチ",
+      "category": "monthlySong",
+      "yearMonth": "2001-10-01T00:00:00Z",
+      "composer": "宮川彬良",
+      "lyricist": "北吉洋一",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2001october"
+    },
+    {
+      "id": "song-2001-09",
+      "title": "スッカラスカンク",
+      "category": "monthlySong",
+      "yearMonth": "2001-09-01T00:00:00Z",
+      "composer": "石川ハルミツ",
+      "lyricist": "石川ハルミツ",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2001september"
+    },
+    {
+      "id": "song-2001-06",
+      "title": "バンジョーのジョー",
+      "category": "monthlySong",
+      "yearMonth": "2001-06-01T00:00:00Z",
+      "composer": "福井洋介",
+      "lyricist": "鍬本良太郎",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2001june"
+    },
+    {
+      "id": "song-2001-05",
+      "title": "あるこう",
+      "category": "monthlySong",
+      "yearMonth": "2001-05-01T00:00:00Z",
+      "composer": "乾裕樹",
+      "lyricist": "小笠原英樹",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2001may"
+    },
+    {
+      "id": "song-2001-04",
+      "title": "あ・い・う・え・おにぎり",
+      "category": "monthlySong",
+      "yearMonth": "2001-04-01T00:00:00Z",
+      "composer": "しゅうさえこ",
+      "lyricist": "しゅうさえこ",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2001april"
+    },
+    {
+      "id": "song-2001-01",
+      "title": "ともだちはアンモナイト",
+      "category": "monthlySong",
+      "yearMonth": "2001-01-01T00:00:00Z",
+      "composer": "斎藤ネコ",
+      "lyricist": "日暮真三",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2001january"
+    },
+    {
+      "id": "song-2000-10",
+      "title": "夢のパレード",
+      "category": "monthlySong",
+      "yearMonth": "2000-10-01T00:00:00Z",
+      "composer": "坂田修",
+      "lyricist": "坂田修",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2000october"
+    },
+    {
+      "id": "song-2000-09",
+      "title": "まるまってる・のびている",
+      "category": "monthlySong",
+      "yearMonth": "2000-09-01T00:00:00Z",
+      "composer": "悠木昭宏",
+      "lyricist": "さいとういんこ",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2000september"
+    },
+    {
+      "id": "song-2000-06",
+      "title": "あめふりりんちゃん",
+      "category": "monthlySong",
+      "yearMonth": "2000-06-01T00:00:00Z",
+      "composer": "栗原正己",
+      "lyricist": "おーなり由子",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2000june"
+    },
+    {
+      "id": "song-2000-05",
+      "title": "歌うクジラ",
+      "category": "monthlySong",
+      "yearMonth": "2000-05-01T00:00:00Z",
+      "composer": "堀井勝美",
+      "lyricist": "斎藤久美子",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2000may"
+    },
+    {
+      "id": "song-2000-04",
+      "title": "唄おうよ!",
+      "category": "monthlySong",
+      "yearMonth": "2000-04-01T00:00:00Z",
+      "composer": "須藤隆",
+      "lyricist": "須藤隆",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2000april"
+    },
+    {
+      "id": "song-2000-01",
+      "title": "みらいくんとゆめみちゃん",
+      "category": "monthlySong",
+      "yearMonth": "2000-01-01T00:00:00Z",
+      "composer": "福田和禾子",
+      "lyricist": "井出隆夫",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2000january"
+    },
+    {
+      "id": "song-1999-12",
+      "title": "ふゆのプレゼント",
+      "category": "monthlySong",
+      "yearMonth": "1999-12-01T00:00:00Z",
+      "composer": "池毅",
+      "lyricist": "木本慶子",
+      "singerNames": [
+        "あき",
+        "りょう",
+        "♪コーラス♪",
+        "あき",
+        "りょう",
+        "弘",
+        "キヨ",
+        "おさ",
+        "けん",
+        "あゆ"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#1999december"
+    },
+    {
+      "id": "song-1999-11",
+      "title": "かっぱなにさま?かっぱさま!",
+      "category": "monthlySong",
+      "yearMonth": "1999-11-01T00:00:00Z",
+      "composer": "坂出雅海",
+      "lyricist": "もりちよこ",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#1999november"
+    },
+    {
+      "id": "song-1999-10",
+      "title": "シアワセ",
+      "category": "monthlySong",
+      "yearMonth": "1999-10-01T00:00:00Z",
+      "composer": "坂田修",
+      "lyricist": "坂田修",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#1999october"
+    },
+    {
+      "id": "song-1999-09",
+      "title": "しっぱいのせいこう",
+      "category": "monthlySong",
+      "yearMonth": "1999-09-01T00:00:00Z",
+      "composer": "小杉保夫",
+      "lyricist": "里乃塚玲央",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#1999september"
+    },
+    {
+      "id": "song-1999-06",
+      "title": "風に吹かれてきたあの子",
+      "category": "monthlySong",
+      "yearMonth": "1999-06-01T00:00:00Z",
+      "composer": "堀井勝美",
+      "lyricist": "鈴木竹志",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#1999june"
+    },
+    {
+      "id": "song-1999-05",
+      "title": "もぐらトンネル",
+      "category": "monthlySong",
+      "yearMonth": "1999-05-01T00:00:00Z",
+      "composer": "濱田理恵",
+      "lyricist": "桑原永江",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#1999may"
+    },
+    {
+      "id": "song-1999-04",
+      "title": "はるかぜ電話",
+      "category": "monthlySong",
+      "yearMonth": "1999-04-01T00:00:00Z",
+      "composer": "福田和禾子",
+      "lyricist": "俵万智",
+      "singerNames": [
+        "あき",
+        "りょう"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#1999april"
+    }
+  ],
+  "broadcasts": []
+}
