@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T08:37:37Z",
+  "generatedAt": "2026-08-28T05:03:40Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -3343,6 +3343,17 @@
     }
   ],
   "broadcasts": [
+    {
+      "id": "broadcast-2026-08-31",
+      "date": "2026-08-31T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [],
+      "resultNote": "再?(2026/08/03(月))",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20260831",
+      "rerunOfBroadcastID": null
+    },
     {
       "id": "broadcast-2026-08-29",
       "date": "2026-08-29T00:00:00Z",
