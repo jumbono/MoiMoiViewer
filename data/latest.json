@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T22:57:37Z",
+  "generatedAt": "2026-08-30T23:03:44Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -3422,11 +3422,22 @@
       "id": "broadcast-2026-08-24",
       "date": "2026-08-24T00:00:00Z",
       "title": "",
-      "performerNames": [],
-      "songTitles": [
-        "わっしょい"
+      "performerNames": [
+        "まや姉",
+        "ゆういちろう兄",
+        "アン姉",
+        "ファンターネ!",
+        "和夢兄"
       ],
-      "resultNote": "本放送 お友達と一緒に♪わっしょい、ファンファンコロリンパ、からだ☆ダンダン、他\n♪わっしょい",
+      "songTitles": [
+        "わっしょい",
+        "村まつり",
+        "のりまきペラパリおんど",
+        "おおきなたいこ",
+        "木もれ日の歌",
+        "きんらきらぽん"
+      ],
+      "resultNote": "本放送 → 管理人のTweet Now!\n♪わっしょい\n♪村まつり\n♪のりまきペラパリおんど\n♪おおきなたいこ\n♪木もれ日の歌\n♪きんらきらぽん\n●歌コーナー:♪わっしょい(Y♪M♪WJ) @新スタジオ ※ 約26人のお友達と立って\n●ファンターネ!:帰還してきたルチータと遊びたいのに!の回(仮題)\n●歌コーナー:♪木もれ日の歌(Y♪M♪ MV ロケ New)\n●ファンファンコロリンパ:YMWJ ルチータだけで サイコロを投げて出た面に描かれている絵と同じ動きをする\n●ぱくぱくるんるん:男の子とお母さんとお父さん ●インターミッション:きがたひめまいこどり New",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20260824",
       "rerunOfBroadcastID": null
@@ -3437,7 +3448,7 @@
       "title": "",
       "performerNames": [],
       "songTitles": [],
-      "resultNote": "[あづかず NHK札幌放送局から 3回目収録] 再(2026/07/25(土)) Now!",
+      "resultNote": "[あづかず NHK札幌放送局から 3回目収録] 再(2026/07/25(土))",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20260822",
       "rerunOfBroadcastID": "broadcast-2026-07-25"
