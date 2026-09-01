@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T23:03:44Z",
+  "generatedAt": "2026-09-01T00:17:22Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -3344,6 +3344,61 @@
   ],
   "broadcasts": [
     {
+      "id": "broadcast-2026-09-05",
+      "date": "2026-09-05T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [],
+      "resultNote": "再?(2026/08/08(土))",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20260905",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-09-04",
+      "date": "2026-09-04T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [],
+      "resultNote": "再?(2026/08/07(金))",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20260904",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-09-03",
+      "date": "2026-09-03T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [],
+      "resultNote": "再?(2026/08/06(木))",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20260903",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-09-02",
+      "date": "2026-09-02T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [],
+      "resultNote": "再?(2026/08/05(水))",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20260902",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-09-01",
+      "date": "2026-09-01T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [],
+      "resultNote": "再?(2026/08/04(火))",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20260901",
+      "rerunOfBroadcastID": null
+    },
+    {
       "id": "broadcast-2026-08-31",
       "date": "2026-08-31T00:00:00Z",
       "title": "",
@@ -3409,11 +3464,22 @@
       "id": "broadcast-2026-08-25",
       "date": "2026-08-25T00:00:00Z",
       "title": "",
-      "performerNames": [],
-      "songTitles": [
-        "とんぼのめがね"
+      "performerNames": [
+        "まや姉",
+        "ゆういちろう兄",
+        "アン姉",
+        "和夢兄"
       ],
-      "resultNote": "本放送 お友達と一緒に♪とんぼのめがね、さすらえ!ポーズマン、からだ☆ダンダン、他\n♪とんぼのめがね",
+      "songTitles": [
+        "とんぼのめがね",
+        "むしむしフェスティバル(アニメ",
+        "おはなしゆびさん",
+        "ふしぎなポケット",
+        "いいんだよ!インド洋!陰と陽!",
+        "ホ!ホ!ホ!",
+        "きんらきらぽん"
+      ],
+      "resultNote": "本放送 → 管理人のTweet Now!\n♪とんぼのめがね\n♪むしむしフェスティバル(アニメ\n♪おはなしゆびさん\n♪ふしぎなポケット\n♪いいんだよ!インド洋!陰と陽!\n♪ホ!ホ!ホ!\n♪きんらきらぽん\n●歌コーナー:♪とんぼのめがね(Y♪M♪WJ) @新スタジオ\n●ファンターネ!:『後で』とすぐ言う大人達の回(仮題)\n●歌コーナー:♪ホ!ホ!ホ!(Y♪M♪ MV ロケ New)\n●さすらえ!ポーズマン(ロケ):ポーズマン(W) @場所不明などこかのインド料理食材店? 再(2025/09/22(月))\n●てーを!:男の子 ●インターミッション:ぎんやんま New\n●からだ☆ダンダン WJ W第一声 ※ 約27人のお友達と共に",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20260825",
       "rerunOfBroadcastID": null
@@ -3437,7 +3503,7 @@
         "木もれ日の歌",
         "きんらきらぽん"
       ],
-      "resultNote": "本放送 → 管理人のTweet Now!\n♪わっしょい\n♪村まつり\n♪のりまきペラパリおんど\n♪おおきなたいこ\n♪木もれ日の歌\n♪きんらきらぽん\n●歌コーナー:♪わっしょい(Y♪M♪WJ) @新スタジオ ※ 約26人のお友達と立って\n●ファンターネ!:帰還してきたルチータと遊びたいのに!の回(仮題)\n●歌コーナー:♪木もれ日の歌(Y♪M♪ MV ロケ New)\n●ファンファンコロリンパ:YMWJ ルチータだけで サイコロを投げて出た面に描かれている絵と同じ動きをする\n●ぱくぱくるんるん:男の子とお母さんとお父さん ●インターミッション:きがたひめまいこどり New",
+      "resultNote": "本放送 → 管理人のTweet\n♪わっしょい\n♪村まつり\n♪のりまきペラパリおんど\n♪おおきなたいこ\n♪木もれ日の歌\n♪きんらきらぽん\n●歌コーナー:♪わっしょい(Y♪M♪WJ) @新スタジオ ※ 約26人のお友達と立って\n●ファンターネ!:帰還してきたルチータと遊びたいのに!の回(仮題)\n●歌コーナー:♪木もれ日の歌(Y♪M♪ MV ロケ New)\n●ファンファンコロリンパ:YMWJ ルチータだけで サイコロを投げて出た面に描かれている絵と同じ動きをする\n●ぱくぱくるんるん:男の子とお母さんとお父さん ●インターミッション:きがたひめまいこどり New\n●からだ☆ダンダン WJ W第一声 ※ 約26人のお友達と共に",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20260824",
       "rerunOfBroadcastID": null
