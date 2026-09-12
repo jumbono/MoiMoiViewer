@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T22:56:41Z",
+  "generatedAt": "2026-09-12T22:45:45Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -3357,6 +3357,46 @@
     }
   ],
   "broadcasts": [
+    {
+      "id": "broadcast-2026-09-12",
+      "date": "2026-09-12T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "ドドンパ花火"
+      ],
+      "resultNote": "石川県能登町でお友達と一緒に。♪ドドンパ花火、「おじいちゃんおばあちゃんといっしょ」、他\n♪ドドンパ花火",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20260912",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-09-11",
+      "date": "2026-09-11T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "だいじなともだち",
+        "おにさがしのうた"
+      ],
+      "resultNote": "お友達と一緒に♪だいじなともだち、「やぎさんゆうびん」は♪おにさがしのうた、他\n♪だいじなともだち\n♪おにさがしのうた",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20260911",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-09-10",
+      "date": "2026-09-10T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "おはよう!"
+      ],
+      "resultNote": "お友達と一緒に♪おはよう!、しりたガエルのけけちゃま、からだ☆ダンダン、他\n♪おはよう!",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20260910",
+      "rerunOfBroadcastID": null
+    },
     {
       "id": "broadcast-2026-09-09",
       "date": "2026-09-09T00:00:00Z",
