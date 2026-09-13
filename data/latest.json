@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T22:45:45Z",
+  "generatedAt": "2026-09-13T22:45:58Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -3358,6 +3358,83 @@
   ],
   "broadcasts": [
     {
+      "id": "broadcast-2026-09-19",
+      "date": "2026-09-19T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [],
+      "resultNote": "お外でお友達と一緒に。「おじいちゃんおばあちゃんといっしょ」、他",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20260919",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-09-18",
+      "date": "2026-09-18T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "アイアイ",
+        "あしたにむかって"
+      ],
+      "resultNote": "お友達と一緒に♪アイアイ、「やぎさんゆうびん」は♪あしたにむかって、他\n♪アイアイ\n♪あしたにむかって",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20260918",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-09-17",
+      "date": "2026-09-17T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "どんな色がすき"
+      ],
+      "resultNote": "お友達と一緒に♪どんな色がすき、ももいろリズム、しりたガエルのけけちゃま、他\n♪どんな色がすき",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20260917",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-09-16",
+      "date": "2026-09-16T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "もしもしカメラ"
+      ],
+      "resultNote": "お友達と一緒に♪もしもしカメラ、おえかきクレッピー、からだ☆ダンダン、他\n♪もしもしカメラ",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20260916",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-09-15",
+      "date": "2026-09-15T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "お〜い!"
+      ],
+      "resultNote": "お友達と一緒に♪お〜い!、さすらえ!ポーズマン、からだ☆ダンダン、他\n♪お〜い!",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20260915",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-09-14",
+      "date": "2026-09-14T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "きみのなまえ"
+      ],
+      "resultNote": "お友達と一緒に♪きみのなまえ、ファンファンコロリンパ、からだ☆ダンダン、他\n♪きみのなまえ",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20260914",
+      "rerunOfBroadcastID": null
+    },
+    {
       "id": "broadcast-2026-09-12",
       "date": "2026-09-12T00:00:00Z",
       "title": "",
@@ -3427,11 +3504,20 @@
       "id": "broadcast-2026-09-07",
       "date": "2026-09-07T00:00:00Z",
       "title": "",
-      "performerNames": [],
-      "songTitles": [
-        "ちょうちょう"
+      "performerNames": [
+        "まや姉",
+        "ゆういちろう兄",
+        "アン姉",
+        "ファンターネ!",
+        "和夢兄"
       ],
-      "resultNote": "お友達と一緒に♪ちょうちょう、ぶんぶんぶん、ファンファンコロリンパ、からだ☆ダンダン、他\n♪ちょうちょう",
+      "songTitles": [
+        "ちょうちょう",
+        "ぶんぶんぶん",
+        "オドレオドレドレ",
+        "きんらきらぽん"
+      ],
+      "resultNote": "→ 管理人のTweet Now!\n♪ちょうちょう\n♪ぶんぶんぶん\n♪オドレオドレドレ\n♪きんらきらぽん\n●歌コーナー:♪ちょうちょう(Y♪M♪WJ やころ) ♪ぶんぶんぶん(Y♪M♪WJ やころ) @新スタジオ\n●ファンターネ!:クシャ船長が説明する「椅子取りゲーム」を勘違いの回(仮題)\n●月歌:♪オドレオドレドレ(Y♪M♪WJ New 2026年9月の月歌)\n●ファンファンコロリンパ:YMWJ やころ 約29人のお友達 サイコロを投げて出た面に描かれている絵と同じ動きをする\n●ぱくぱくるんるん:男の子とお母さん ●インターミッション:へらくれすおおかぶと 再(2025/03/22(土))",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20260907",
       "rerunOfBroadcastID": null
@@ -3442,7 +3528,7 @@
       "title": "",
       "performerNames": [],
       "songTitles": [],
-      "resultNote": "再(2026/08/08(土)) Now!",
+      "resultNote": "再(2026/08/08(土))",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20260905",
       "rerunOfBroadcastID": "broadcast-2026-08-08"
