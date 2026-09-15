@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T23:40:03Z",
+  "generatedAt": "2026-09-15T23:21:52Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -3478,11 +3478,19 @@
       "id": "broadcast-2026-09-09",
       "date": "2026-09-09T00:00:00Z",
       "title": "",
-      "performerNames": [],
-      "songTitles": [
-        "わっ!!おしゃれ"
+      "performerNames": [
+        "まや姉",
+        "ゆういちろう兄",
+        "アン姉",
+        "ファンターネ!",
+        "和夢兄"
       ],
-      "resultNote": "お友達と一緒に♪わっ!!おしゃれ、おえかきクレッピー、からだ☆ダンダン、他\n♪わっ!!おしゃれ",
+      "songTitles": [
+        "わっ!!おしゃれ",
+        "オドレオドレドレ",
+        "きんらきらぽん"
+      ],
+      "resultNote": "→ 管理人のTweet Now!\n♪わっ!!おしゃれ\n♪オドレオドレドレ\n♪きんらきらぽん\n●歌コーナー:♪わっ!!おしゃれ(Y♪M♪WJ みもも♪) @新スタジオ\n●ファンターネ!:成りたいものが沢山有り過ぎるみももの回(仮題)\n●月歌:♪オドレオドレドレ(Y♪M♪WJ)\n●おえかきクレッピー:クレッピー(M) YWJは大勢のお友達と座って\n●はみがきじょうずかな:男の子 ●インターミッション:だんごうお 再(2025/11/13(木))",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20260909",
       "rerunOfBroadcastID": null
@@ -3503,7 +3511,7 @@
         "オドレオドレドレ",
         "きんらきらぽん"
       ],
-      "resultNote": "→ 管理人のTweet Now!\n♪すきすき!ナットウスキ〜\n♪オドレオドレドレ\n♪きんらきらぽん\n●歌コーナー:♪すきすき!ナットウスキ〜(Y♪M♪WJ ルチータ New) @新スタジオ ※ 約28人のお友達と立って\n●月歌:♪オドレオドレドレ(Y♪M♪WJ)\n●さすらいのポーズマン:ポーズマン(W) YMJは大勢のお友達と共に立って\n●てーを!:女の子 ●インターミッション:がー",
+      "resultNote": "→ 管理人のTweet\n♪すきすき!ナットウスキ〜\n♪オドレオドレドレ\n♪きんらきらぽん\n●歌コーナー:♪すきすき!ナットウスキ〜(Y♪M♪WJ ルチータ New) @新スタジオ ※ 約28人のお友達と立って\n●月歌:♪オドレオドレドレ(Y♪M♪WJ)\n●さすらいのポーズマン:ポーズマン(W) YMJは大勢のお友達と共に立って\n●てーを!:女の子 ●インターミッション:がー",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20260908",
       "rerunOfBroadcastID": null
