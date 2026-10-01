@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T00:02:22Z",
+  "generatedAt": "2026-10-01T00:18:29Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -3358,6 +3358,50 @@
   ],
   "broadcasts": [
     {
+      "id": "broadcast-2026-10-17",
+      "date": "2026-10-17T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [],
+      "resultNote": "本放送 桐生ファミコン",
+      "isSpecialEpisode": true,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261017",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-10-03",
+      "date": "2026-10-03T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [],
+      "resultNote": "再?(2026/09/12(土))",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261003",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-10-02",
+      "date": "2026-10-02T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [],
+      "resultNote": "再?(2026/09/11(金))",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261002",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-10-01",
+      "date": "2026-10-01T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [],
+      "resultNote": "再?(2026/09/10(木))",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261001",
+      "rerunOfBroadcastID": null
+    },
+    {
       "id": "broadcast-2026-09-30",
       "date": "2026-09-30T00:00:00Z",
       "title": "",
@@ -3418,11 +3462,20 @@
       "id": "broadcast-2026-09-24",
       "date": "2026-09-24T00:00:00Z",
       "title": "",
-      "performerNames": [],
-      "songTitles": [
-        "すずめがサンバ"
+      "performerNames": [
+        "まや姉",
+        "ゆういちろう兄",
+        "アン姉",
+        "ファンターネ!",
+        "和夢兄"
       ],
-      "resultNote": "お友達と一緒に♪すずめがサンバ、ももいろリズム、しりたガエルのけけちゃま、他\n♪すずめがサンバ",
+      "songTitles": [
+        "すずめがサンバ",
+        "たいこムーン",
+        "オドレオドレドレ",
+        "きんらきらぽん"
+      ],
+      "resultNote": "→ 管理人のTweet Now!\n♪すずめがサンバ\n♪たいこムーン\n♪オドレオドレドレ\n♪きんらきらぽん\n●歌コーナー:♪すずめがサンバ(Y♪M♪WJ) @新スタジオ ※ 約26人のお友達と立って\n●ファンターネ!:ルチータが無くした青いリボンを頭に被っていたビヨヨン3兄弟の回(仮題) 再(2025/08/21(木))\n●月歌:♪オドレオドレドレ(Y♪M♪WJ)\n●ももいろリズム:みももとタンバリンでリズム遊び、キラキラの冠を着けて王様気分(仮題) 再(2026/08/27(木))\n●しりたガエルのけけちゃま(兄姉1人と対話ver.):けけちゃま W @新セット(お空のお花畑)\n●パジャマでおじゃま:女の子 再(2026/07/16(木)) ●インターミッション:かば New",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20260924",
       "rerunOfBroadcastID": null
@@ -3446,7 +3499,7 @@
         "ぶるるのテーマ",
         "きんらきらぽん"
       ],
-      "resultNote": "→ 管理人のTweet Now!\n♪アイアイ\n♪ブーブーニャーニャーワンワンワン(再\n♪パフ\n♪オドレオドレドレ\n♪ぶるるのテーマ\n♪きんらきらぽん\n●歌コーナー:♪アイアイ(Y♪M♪WJ) @新スタジオ\n●ファンターネ!:小鳥さんが何て言っているか理解したいクシャ船長の回(仮題) 再(2026/02/04(水))\n●月歌:♪オドレオドレドレ(Y♪M♪WJ)\n●こんなこいるかな:♪ぶるるのテーマ 再(2026/07/18(土))\n●おえかきクレッピー(ロケ):クレッピー(W) @どこかの場所\n●はみがきじょうずかな:女の子 再(2026/07/15(水)) ●インターミッション:すかんく New\n●からだ☆ダンダン WJ J第一声 ※ 約29人のお友達と共に",
+      "resultNote": "→ 管理人のTweet\n♪アイアイ\n♪ブーブーニャーニャーワンワンワン(再\n♪パフ\n♪オドレオドレドレ\n♪ぶるるのテーマ\n♪きんらきらぽん\n●歌コーナー:♪アイアイ(Y♪M♪WJ) @新スタジオ\n●ファンターネ!:小鳥さんが何て言っているか理解したいクシャ船長の回(仮題) 再(2026/02/04(水))\n●月歌:♪オドレオドレドレ(Y♪M♪WJ)\n●こんなこいるかな:♪ぶるるのテーマ 再(2026/07/18(土))\n●おえかきクレッピー(ロケ):クレッピー(W) @どこかの場所\n●はみがきじょうずかな:女の子 再(2026/07/15(水)) ●インターミッション:すかんく New\n●からだ☆ダンダン WJ J第一声 ※ 約29人のお友達と共に",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20260923",
       "rerunOfBroadcastID": null
