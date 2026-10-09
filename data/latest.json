@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T00:39:48Z",
+  "generatedAt": "2026-10-09T00:55:39Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -279,6 +279,20 @@
     }
   ],
   "songs": [
+    {
+      "id": "song-2026-10",
+      "title": "コロッケこれっきゃない!",
+      "category": "monthlySong",
+      "yearMonth": "2026-10-01T00:00:00Z",
+      "composer": "折坂悠太",
+      "lyricist": "折坂悠太",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2026october"
+    },
     {
       "id": "song-2026-09",
       "title": "オドレオドレドレ",
