@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T00:25:08Z",
+  "generatedAt": "2026-10-11T00:03:24Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -3383,6 +3383,72 @@
       "rerunOfBroadcastID": null
     },
     {
+      "id": "broadcast-2026-10-16",
+      "date": "2026-10-16T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "しあわせならてをたたこう",
+        "あっちっちのフライパン"
+      ],
+      "resultNote": "お友達と一緒に♪しあわせならてをたたこう、「やぎさんゆうびん」は♪あっちっちのフライパン、他\n♪しあわせならてをたたこう\n♪あっちっちのフライパン",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261016",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-10-15",
+      "date": "2026-10-15T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "まゆげのうた"
+      ],
+      "resultNote": "お友達と一緒に♪まゆげのうた、なんだっけ?!、しりたガエルのけけちゃま、他\n♪まゆげのうた",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261015",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-10-14",
+      "date": "2026-10-14T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "汽車ポッポ"
+      ],
+      "resultNote": "お友達と一緒に♪汽車ポッポ、おえかきクレッピー、からだ☆ダンダン、他\n♪汽車ポッポ",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261014",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-10-13",
+      "date": "2026-10-13T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "やきいもグーチーパー"
+      ],
+      "resultNote": "お友達と一緒に♪やきいもグーチーパー、ファンファンコロリンパ、からだ☆ダンダン、他\n♪やきいもグーチーパー",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261013",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-10-12",
+      "date": "2026-10-12T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "たのしいね"
+      ],
+      "resultNote": "お友達と一緒に♪たのしいね、ファンファンコロリンパ、からだ☆ダンダン、他\n♪たのしいね",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261012",
+      "rerunOfBroadcastID": null
+    },
+    {
       "id": "broadcast-2026-10-10",
       "date": "2026-10-10T00:00:00Z",
       "title": "",
@@ -4471,7 +4537,7 @@
         "ガリダリシュッポン!",
         "きんらきらぽん"
       ],
-      "resultNote": "本放送 ※ 夕方の放送は17:30〜17:54 → 管理人のTweet\n♪あくびがビブベバ\n♪ガリダリシュッポン!\n♪きんらきらぽん\n●歌コーナー:♪あくびがビブベバ(Y♪M♪WJ ルチータ New) @新スタジオ\n●ファンターネ!:アッチゴンを観察すると食べるか寝るかのどっちかばかりの回(仮題)\n●歌コーナー:♪ガリダリシュッポン!(Y♪M♪WJ MV)\n●さすらいのポーズマン:ポーズマン(W) YMJは大勢のお友達と共に立って\n●てーを!:女の子 ●インターミッション:らいおん New",
+      "resultNote": "本放送 ※ 夕方の放送は17:30〜17:54 → 管理人のTweet → 感想@アメブロ\n♪あくびがビブベバ\n♪ガリダリシュッポン!\n♪きんらきらぽん\n●歌コーナー:♪あくびがビブベバ(Y♪M♪WJ ルチータ New) @新スタジオ\n●ファンターネ!:アッチゴンを観察すると食べるか寝るかのどっちかばかりの回(仮題)\n●歌コーナー:♪ガリダリシュッポン!(Y♪M♪WJ MV)\n●さすらいのポーズマン:ポーズマン(W) YMJは大勢のお友達と共に立って\n●てーを!:女の子 ●インターミッション:らいおん New",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20260804",
       "rerunOfBroadcastID": null
