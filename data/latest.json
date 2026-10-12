@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T00:03:24Z",
+  "generatedAt": "2026-10-12T00:08:55Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -3516,11 +3516,19 @@
       "id": "broadcast-2026-10-05",
       "date": "2026-10-05T00:00:00Z",
       "title": "",
-      "performerNames": [],
-      "songTitles": [
-        "おべんとうばこ"
+      "performerNames": [
+        "まや姉",
+        "ゆういちろう兄",
+        "アン姉",
+        "ファンターネ!",
+        "和夢兄"
       ],
-      "resultNote": "お友達と一緒に♪おべんとうばこ、ファンファンコロリンパ、からだ☆ダンダン、他\n♪おべんとうばこ",
+      "songTitles": [
+        "おべんとうばこ",
+        "コロッケこれっきゃない!(アニメ",
+        "きんらきらぽん"
+      ],
+      "resultNote": "→ 管理人のTweet Now!\n♪おべんとうばこ\n♪コロッケこれっきゃない!(アニメ\n♪きんらきらぽん\n●歌コーナー:♪おべんとうばこ(Y♪M♪WJ ルチータ♪) @新スタジオ\n●ファンターネ!:マーキーさんと森にあるものでごっこ遊びの回(仮題)\n●月歌:♪コロッケこれっきゃない!(アニメ New 2026年10月の月歌)\n●ファンファンコロリンパ:YMWJ ルチータ 約29人のお友達 サイコロを投げて出た面に描かれている絵と同じ動きをする\n●ぱくぱくるんるん:女の子とお母さんとお父さん ●インターミッション:きのこ 再(2026/01/08(木))",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261005",
       "rerunOfBroadcastID": null
@@ -3531,7 +3539,7 @@
       "title": "",
       "performerNames": [],
       "songTitles": [],
-      "resultNote": "再(2026/09/12(土)) Now!",
+      "resultNote": "再(2026/09/12(土))",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261003",
       "rerunOfBroadcastID": "broadcast-2026-09-12"
