@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T23:35:38Z",
+  "generatedAt": "2026-10-15T23:30:01Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -218,13 +218,25 @@
       "sourceURLString": "http://moi-moi.jp/an_satouhiromichi.html"
     },
     {
+      "id": "anje",
+      "name": "アンジェ",
+      "kana": "",
+      "role": "other",
+      "generation": null,
+      "tenureStart": "2026-04-01T00:00:00Z",
+      "tenureEnd": null,
+      "biography": "初代おどりのお姉さん",
+      "photoURLString": null,
+      "sourceURLString": "http://moi-moi.jp/an_anje.html"
+    },
+    {
       "id": "akimotoaduki",
       "name": "秋元杏月",
       "kana": "",
       "role": "other",
       "generation": null,
       "tenureStart": "2019-04-01T00:00:00Z",
-      "tenureEnd": null,
+      "tenureEnd": "2025-03-31T00:00:00Z",
       "biography": "初代体操のお姉さん",
       "photoURLString": null,
       "sourceURLString": "http://moi-moi.jp/an_akimotoaduki.html"
@@ -3463,12 +3475,19 @@
       "id": "broadcast-2026-10-09",
       "date": "2026-10-09T00:00:00Z",
       "title": "",
-      "performerNames": [],
+      "performerNames": [
+        "まや姉",
+        "ゆういちろう兄",
+        "アン姉",
+        "ファンターネ!",
+        "和夢兄"
+      ],
       "songTitles": [
         "しあわせならてをたたこう",
-        "ピンチピンチマーチ"
+        "コロッケこれっきゃない!(アニメ",
+        "きんらきらぽん"
       ],
-      "resultNote": "お友達と一緒に♪しあわせならてをたたこう、「やぎさんゆうびん」は♪ピンチピンチマーチ、他\n♪しあわせならてをたたこう\n♪ピンチピンチマーチ",
+      "resultNote": "→ 管理人のTweet Now!\n♪しあわせならてをたたこう\n♪コロッケこれっきゃない!(アニメ\n♪きんらきらぽん\n●歌コーナー:♪しあわせならてをたたこう(Y♪M♪WJ) @新スタジオ\n●ファンターネ!:集めたお気に入りの葉っぱ達が捨てられないやころの回(仮題) 再(2025/09/15(月・祝))\n●月歌:♪コロッケこれっきゃない!(アニメ 2026年10月の月歌)\n●ファンキーマーキーチャンネル:女の子 ボール遊びをします。\n●ドン!ドン!おかたづけ:男の子 ●インターミッション:おながせあおまいこどり New",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261009",
       "rerunOfBroadcastID": null
@@ -3489,7 +3508,7 @@
         "コロッケこれっきゃない!(アニメ",
         "きんらきらぽん"
       ],
-      "resultNote": "→ 管理人のTweet Now!\n♪どんぐりころころ\n♪コロッケこれっきゃない!(アニメ\n♪きんらきらぽん\n●歌コーナー:♪どんぐりころころ(Y♪M♪WJ) @新スタジオ\n●ファンターネ!:なかなか来ないルチータを心配の回(仮題)\n●月歌:♪コロッケこれっきゃない!(アニメ 2026年10月の月歌)\n●なんだっけ?!:ナーニ兄貴、木を切る時はアレを使うんですよね、と大工仕事のゆういちろう兄。\n●しりたガエルのけけちゃま:けけちゃま ※ MWJは約30人のお友達と座って\n●パジャマでおじゃま:女の子 ●インターミッション:おらんうーたん New",
+      "resultNote": "→ 管理人のTweet\n♪どんぐりころころ\n♪コロッケこれっきゃない!(アニメ\n♪きんらきらぽん\n●歌コーナー:♪どんぐりころころ(Y♪M♪WJ) @新スタジオ\n●ファンターネ!:なかなか来ないルチータを心配の回(仮題)\n●月歌:♪コロッケこれっきゃない!(アニメ 2026年10月の月歌)\n●なんだっけ?!:ナーニ兄貴、木を切る時はアレを使うんですよね、と大工仕事のゆういちろう兄。\n●しりたガエルのけけちゃま:けけちゃま ※ MWJは約30人のお友達と座って\n●パジャマでおじゃま:女の子 ●インターミッション:おらんうーたん New",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261008",
       "rerunOfBroadcastID": null
