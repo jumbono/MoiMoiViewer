@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T22:49:11Z",
+  "generatedAt": "2026-10-18T22:43:09Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -3384,6 +3384,82 @@
   ],
   "broadcasts": [
     {
+      "id": "broadcast-2026-10-24",
+      "date": "2026-10-24T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [],
+      "resultNote": "本放送 お外でお友達と一緒に。おじいちゃんおばあちゃんといっしょ、他",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261024",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-10-23",
+      "date": "2026-10-23T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "アイアイ"
+      ],
+      "resultNote": "本放送 お友達と一緒に♪アイアイ、シルエットはかせ、からだ☆ダンダン、他\n♪アイアイ",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261023",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-10-22",
+      "date": "2026-10-22T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "どんな色がすき"
+      ],
+      "resultNote": "本放送 お友達と一緒に♪どんな色がすき、なんだっけ?!、しりたガエルのけけちゃま、他\n♪どんな色がすき",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261022",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-10-21",
+      "date": "2026-10-21T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "もしもしカメラ"
+      ],
+      "resultNote": "本放送 お友達と一緒に♪もしもしカメラ、おえかきクレッピー、からだ☆ダンダン、他\n♪もしもしカメラ",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261021",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-10-20",
+      "date": "2026-10-20T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "お〜い!"
+      ],
+      "resultNote": "本放送 お友達と一緒に♪お〜い!、さすらいのポーズマン、からだ☆ダンダン、他\n♪お〜い!",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261020",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-10-19",
+      "date": "2026-10-19T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "きみのなまえ"
+      ],
+      "resultNote": "本放送 お友達と一緒に♪きみのなまえ、ファンファンコロリンパ、からだ☆ダンダン、他\n♪きみのなまえ",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261019",
+      "rerunOfBroadcastID": null
+    },
+    {
       "id": "broadcast-2026-10-17",
       "date": "2026-10-17T00:00:00Z",
       "title": "",
@@ -3402,7 +3478,7 @@
       "songTitles": [
         "あっちっちのフライパン"
       ],
-      "resultNote": "お友達と一緒におチャチャの茶、「やぎさんゆうびん」は♪あっちっちのフライパン、他\n♪あっちっちのフライパン",
+      "resultNote": "本放送 お友達と一緒におチャチャの茶、「やぎさんゆうびん」は♪あっちっちのフライパン、他\n♪あっちっちのフライパン",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261016",
       "rerunOfBroadcastID": null
@@ -3415,7 +3491,7 @@
       "songTitles": [
         "まゆげのうた"
       ],
-      "resultNote": "お友達と一緒に♪まゆげのうた、なんだっけ?!、しりたガエルのけけちゃま、他\n♪まゆげのうた",
+      "resultNote": "本放送 お友達と一緒に♪まゆげのうた、なんだっけ?!、しりたガエルのけけちゃま、他\n♪まゆげのうた",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261015",
       "rerunOfBroadcastID": null
@@ -3428,7 +3504,7 @@
       "songTitles": [
         "汽車ポッポ"
       ],
-      "resultNote": "お友達と一緒に♪汽車ポッポ、おえかきクレッピー、からだ☆ダンダン、他\n♪汽車ポッポ",
+      "resultNote": "本放送 お友達と一緒に♪汽車ポッポ、おえかきクレッピー、からだ☆ダンダン、他\n♪汽車ポッポ",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261014",
       "rerunOfBroadcastID": null
@@ -3441,7 +3517,7 @@
       "songTitles": [
         "やきいもグーチーパー"
       ],
-      "resultNote": "お友達と一緒に♪やきいもグーチーパー、ファンファンコロリンパ、からだ☆ダンダン、他\n♪やきいもグーチーパー",
+      "resultNote": "本放送 お友達と一緒に♪やきいもグーチーパー、さすらいのポーズマン、からだ☆ダンダン、他\n♪やきいもグーチーパー",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261013",
       "rerunOfBroadcastID": null
@@ -3450,11 +3526,19 @@
       "id": "broadcast-2026-10-12",
       "date": "2026-10-12T00:00:00Z",
       "title": "",
-      "performerNames": [],
-      "songTitles": [
-        "たのしいね"
+      "performerNames": [
+        "まや姉",
+        "ゆういちろう兄",
+        "アン姉",
+        "ファンターネ!",
+        "和夢兄"
       ],
-      "resultNote": "お友達と一緒に♪たのしいね、ファンファンコロリンパ、からだ☆ダンダン、他\n♪たのしいね",
+      "songTitles": [
+        "たのしいね",
+        "コロッケこれっきゃない!(アニメ",
+        "きんらきらぽん"
+      ],
+      "resultNote": "本放送 → 管理人のTweet Now!\n♪たのしいね\n♪コロッケこれっきゃない!(アニメ\n♪きんらきらぽん\n●歌コーナー:♪たのしいね(Y♪M♪WJ) @新スタジオ\n●ファンターネ!:みもも、病院での予防接種の模擬練習の回(仮題)\n●月歌:♪コロッケこれっきゃない!(アニメ 2026年10月の月歌)\n●ファンファンコロリンパ:YMWJ やころだけで 再(2026/06/22(月))\n●ぱくぱくるんるん:女の子とお母さんとお父さんと弟 ●インターミッション:らけっとはちどり 再(2024/05/04(土・祝))",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261012",
       "rerunOfBroadcastID": null
@@ -3483,7 +3567,7 @@
         "地球の歌",
         "ほしのうた"
       ],
-      "resultNote": "再ベース(2026/08/29(土)) → 管理人のTweet Now!\n♪ドン・チュー!\n♪(★灰色の鼠帽子を被って\n♪コロッケこれっきゃない!(アニメ\n♪スズムシのコンサート\n♪鈴虫\n♪みもも\n♪やころ\n♪ルチータ\n♪ガリダリシュッポン!\n♪ニャニュニョのてんきよほう\n♪地球の歌\n♪ほしのうた\n●森の中で遊んじゃおう(仮題) WJ 約17人の自由な服装の男の子女の子達と @北海道北広島市の認定こども園\n●月歌:♪コロッケこれっきゃない!(アニメ 2026年10月の月歌)\n●今日はどんな歌かな?ファンターネ! 〜 ♪スズムシのコンサート ミミコ♪ 鈴虫♪ みもも♪ やころ♪ ルチータ♪\n●歌コーナー:♪ガリダリシュッポン!(Y♪M♪WJ MV) ♪ニャニュニョのてんきよほう ♪地球の歌 ♪ほしのうた\n●インターミッション:たすまにあでびる New\n●からだ☆ダンダン WJ 約17人の男の子女の子 ※ J第一声 @北海道北広島市の認定こども園",
+      "resultNote": "再ベース(2026/08/29(土)) → 管理人のTweet\n♪ドン・チュー!\n♪(★灰色の鼠帽子を被って\n♪コロッケこれっきゃない!(アニメ\n♪スズムシのコンサート\n♪鈴虫\n♪みもも\n♪やころ\n♪ルチータ\n♪ガリダリシュッポン!\n♪ニャニュニョのてんきよほう\n♪地球の歌\n♪ほしのうた\n●森の中で遊んじゃおう(仮題) WJ 約17人の自由な服装の男の子女の子達と @北海道北広島市の認定こども園\n●月歌:♪コロッケこれっきゃない!(アニメ 2026年10月の月歌)\n●今日はどんな歌かな?ファンターネ! 〜 ♪スズムシのコンサート ミミコ♪ 鈴虫♪ みもも♪ やころ♪ ルチータ♪\n●歌コーナー:♪ガリダリシュッポン!(Y♪M♪WJ MV) ♪ニャニュニョのてんきよほう ♪地球の歌 ♪ほしのうた\n●インターミッション:たすまにあでびる New\n●からだ☆ダンダン WJ 約17人の男の子女の子 ※ J第一声 @北海道北広島市の認定こども園",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261010",
       "rerunOfBroadcastID": null
@@ -3543,9 +3627,10 @@
       ],
       "songTitles": [
         "もぐらトンネル",
+        "コロッケこれっきゃない!(アニメ",
         "きんらきらぽん"
       ],
-      "resultNote": "→ 管理人のTweet\n♪もぐらトンネル\n♪きんらきらぽん\n●歌コーナー:♪もぐらトンネル(Y♪M♪WJ ルチータ♪) @新スタジオ\n●ファンターネ!:デコレーションぐるぐるマーケットで箱にご執心のルチータの回(仮題) 再(2025/12/15(月))\n●こんなこいるかな(アニメ):まねっこの まねりん「ものまね」篇(New)\n●おえかきクレッピー:クレッピー(M) YWJは大勢のお友達と座って\n●はみがきじょうずかな:男の子 ●インターミッション:もぐら 再(2024/05/17(金))",
+      "resultNote": "→ 管理人のTweet\n♪もぐらトンネル\n♪コロッケこれっきゃない!(アニメ\n♪きんらきらぽん\n●歌コーナー:♪もぐらトンネル(Y♪M♪WJ ルチータ♪) @新スタジオ\n●ファンターネ!:デコレーションぐるぐるマーケットで箱にご執心のルチータの回(仮題) 再(2025/12/15(月))\n●月歌:♪コロッケこれっきゃない!(アニメ 2026年10月の月歌)\n●おえかきクレッピー:クレッピー(M) YWJは大勢のお友達と座って\n●はみがきじょうずかな:男の子 ●インターミッション:もぐら 再(2024/05/17(金))",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261007",
       "rerunOfBroadcastID": null
@@ -4583,7 +4668,7 @@
         "さがそっ!",
         "きんらきらぽん"
       ],
-      "resultNote": "本放送 ※ 夕方の放送は17:30〜17:54 → 管理人のTweet\n♪さがそっ!\n♪きんらきらぽん\n●歌コーナー:♪さがそっ!(Y♪M♪WJ みもも) @新スタジオ\n●ファンターネ!:やころとルチータはお出かけで、みももとあーぷんは南の島ごっこの回(仮題) 再(2025/07/22(火))\n●おえかきクレッピー:クレッピー(M) YWJは大勢のお友達と座って\n●はみがきじょうずかな:女の子 ●インターミッション:かんがるー New",
+      "resultNote": "本放送 ※ 夕方の放送は17:30〜17:54 → 管理人のTweet → 感想@アメブロ\n♪さがそっ!\n♪きんらきらぽん\n●歌コーナー:♪さがそっ!(Y♪M♪WJ みもも) @新スタジオ\n●ファンターネ!:やころとルチータはお出かけで、みももとあーぷんは南の島ごっこの回(仮題) 再(2025/07/22(火))\n●おえかきクレッピー:クレッピー(M) YWJは大勢のお友達と座って\n●はみがきじょうずかな:女の子 ●インターミッション:かんがるー New",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20260805",
       "rerunOfBroadcastID": null
