@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T22:49:29Z",
+  "generatedAt": "2026-10-25T22:58:39Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -3384,15 +3384,70 @@
   ],
   "broadcasts": [
     {
+      "id": "broadcast-2026-10-31",
+      "date": "2026-10-31T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [],
+      "resultNote": "再?(2026/10/10(土))",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261031",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-10-30",
+      "date": "2026-10-30T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [],
+      "resultNote": "再?(2026/10/09(金))",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261030",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-10-29",
+      "date": "2026-10-29T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [],
+      "resultNote": "再?(2026/10/08(木))",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261029",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-10-28",
+      "date": "2026-10-28T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [],
+      "resultNote": "再?(2026/10/07(水))",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261028",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-10-27",
+      "date": "2026-10-27T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [],
+      "resultNote": "再?(2026/10/06(火))",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261027",
+      "rerunOfBroadcastID": null
+    },
+    {
       "id": "broadcast-2026-10-26",
       "date": "2026-10-26T00:00:00Z",
       "title": "",
       "performerNames": [],
       "songTitles": [],
-      "resultNote": "19:00〜19:30 おかあさんといっしょ「うたのリクエスト 秋スペシャル」 再(2023/11/27(月))",
-      "isSpecialEpisode": true,
+      "resultNote": "再?(2026/10/05(月))",
+      "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261026",
-      "rerunOfBroadcastID": "broadcast-2023-11-27"
+      "rerunOfBroadcastID": null
     },
     {
       "id": "broadcast-2026-10-24",
@@ -3461,11 +3516,21 @@
       "id": "broadcast-2026-10-19",
       "date": "2026-10-19T00:00:00Z",
       "title": "",
-      "performerNames": [],
-      "songTitles": [
-        "きみのなまえ"
+      "performerNames": [
+        "まや姉",
+        "ゆういちろう兄",
+        "アン姉",
+        "ファンターネ!",
+        "和夢兄"
       ],
-      "resultNote": "本放送 お友達と一緒に♪きみのなまえ、ファンファンコロリンパ、からだ☆ダンダン、他\n♪きみのなまえ",
+      "songTitles": [
+        "きみのなまえ",
+        "バンジョーのジョー",
+        "おおきなたいこ",
+        "コロッケこれっきゃない!(アニメ",
+        "きんらきらぽん"
+      ],
+      "resultNote": "本放送 → 管理人のTweet Now!\n♪きみのなまえ\n♪バンジョーのジョー\n♪おおきなたいこ\n♪コロッケこれっきゃない!(アニメ\n♪きんらきらぽん\n●歌コーナー:♪きみのなまえ(Y♪M♪WJ) @新スタジオ\n●ファンターネ!:秋の海は色んな音が聴こえてくるの回(仮題)\n●月歌:♪コロッケこれっきゃない!(アニメ 2026年10月の月歌)\n●ファンファンコロリンパ:YMWJ みもも 約24人のお友達 サイコロを投げて出た面に描かれている絵と同じ動きをする\n●ぱくぱくるんるん:男の子とお母さん ●インターミッション:にほんじか 再(2025/01/16(木)) 中ver.\n●からだ☆ダンダン WJ J第一声 ※ 約30人のお友達と共に",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261019",
       "rerunOfBroadcastID": null
@@ -3486,12 +3551,13 @@
       "songTitles": [
         "オーバチュア",
         "ちきゅうのこども",
+        "※",
         "キラキラッタッタ(本コーナーテーマソング",
         "わっ!!おしゃれ",
         "おまつりすんだはらっぱに",
         "きんらきらぽん"
       ],
-      "resultNote": "本放送 桐生ファミコン → 管理人のTweet Now!\n♪オーバチュア\n♪ちきゅうのこども\n♪キラキラッタッタ(本コーナーテーマソング\n♪わっ!!おしゃれ\n♪おまつりすんだはらっぱに\n♪きんらきらぽん\n●YMWQ、ファネ挨拶\n●ポーズルーレーット(仮題 New) ファネ(みもも やころ ルチータ あーぷん ポーズマン)\n●体操前の準備を促すトーク JW\n●からだ☆ダンダン JW",
+      "resultNote": "本放送 桐生ファミコン → 管理人のTweet\n♪オーバチュア\n♪ちきゅうのこども\n♪※\n♪キラキラッタッタ(本コーナーテーマソング\n♪わっ!!おしゃれ\n♪おまつりすんだはらっぱに\n♪きんらきらぽん\n●YMWQ、ファネ挨拶\n●ポーズルーレーット(仮題 New) ファネ(みもも やころ ルチータ あーぷん ポーズマン)\n●体操前の準備を促すトーク JW\n●からだ☆ダンダン JW",
       "isSpecialEpisode": true,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261017",
       "rerunOfBroadcastID": null
