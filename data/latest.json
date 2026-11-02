@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T23:54:11Z",
+  "generatedAt": "2026-11-02T00:06:01Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -3384,15 +3384,92 @@
   ],
   "broadcasts": [
     {
+      "id": "broadcast-2026-11-07",
+      "date": "2026-11-07T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [],
+      "resultNote": "本放送 富士ファミコン",
+      "isSpecialEpisode": true,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261107",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-11-06",
+      "date": "2026-11-06T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "マッチョマッチョ",
+        "ジャバ・ジャバ・ビバ・ドゥー"
+      ],
+      "resultNote": "お友達と一緒に♪マッチョマッチョ、、「やぎさんゆうびん」は♪ジャバ・ジャバ・ビバ・ドゥー、他\n♪マッチョマッチョ\n♪ジャバ・ジャバ・ビバ・ドゥー",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261106",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-11-05",
+      "date": "2026-11-05T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "マッチョマッチョ"
+      ],
+      "resultNote": "お友達と一緒に♪マッチョマッチョ、めいたんていやころ、しりたガエルのけけちゃま、他\n♪マッチョマッチョ",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261105",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-11-04",
+      "date": "2026-11-04T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "マッチョマッチョ"
+      ],
+      "resultNote": "お友達と一緒に♪マッチョマッチョ、おえかきクレッピー、からだ☆ダンダン、他\n♪マッチョマッチョ",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261104",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-11-03",
+      "date": "2026-11-03T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "マッチョマッチョ"
+      ],
+      "resultNote": "お友達と一緒に♪マッチョマッチョ、さすらいのポーズマン、からだ☆ダンダン、他\n♪マッチョマッチョ",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261103",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-11-02",
+      "date": "2026-11-02T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "マッチョマッチョ(11月の月歌"
+      ],
+      "resultNote": "お友達と一緒に♪マッチョマッチョ(11月の月歌)、ファンファンコロリンパ、からだ☆ダンダン、他\n♪マッチョマッチョ(11月の月歌",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261102",
+      "rerunOfBroadcastID": null
+    },
+    {
       "id": "broadcast-2026-10-31",
       "date": "2026-10-31T00:00:00Z",
       "title": "",
       "performerNames": [],
       "songTitles": [],
-      "resultNote": "再?(2026/10/10(土))",
+      "resultNote": "再(2026/10/10(土)) Now!",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261031",
-      "rerunOfBroadcastID": null
+      "rerunOfBroadcastID": "broadcast-2026-10-10"
     },
     {
       "id": "broadcast-2026-10-30",
@@ -3400,10 +3477,10 @@
       "title": "",
       "performerNames": [],
       "songTitles": [],
-      "resultNote": "再?(2026/10/09(金))",
+      "resultNote": "再(2026/10/09(金))",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261030",
-      "rerunOfBroadcastID": null
+      "rerunOfBroadcastID": "broadcast-2026-10-09"
     },
     {
       "id": "broadcast-2026-10-29",
@@ -3411,10 +3488,10 @@
       "title": "",
       "performerNames": [],
       "songTitles": [],
-      "resultNote": "再?(2026/10/08(木))",
+      "resultNote": "再(2026/10/08(木))",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261029",
-      "rerunOfBroadcastID": null
+      "rerunOfBroadcastID": "broadcast-2026-10-08"
     },
     {
       "id": "broadcast-2026-10-28",
@@ -3422,10 +3499,10 @@
       "title": "",
       "performerNames": [],
       "songTitles": [],
-      "resultNote": "再?(2026/10/07(水))",
+      "resultNote": "再(2026/10/07(水))",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261028",
-      "rerunOfBroadcastID": null
+      "rerunOfBroadcastID": "broadcast-2026-10-07"
     },
     {
       "id": "broadcast-2026-10-27",
@@ -3433,10 +3510,10 @@
       "title": "",
       "performerNames": [],
       "songTitles": [],
-      "resultNote": "再?(2026/10/06(火))",
+      "resultNote": "再(2026/10/06(火))",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261027",
-      "rerunOfBroadcastID": null
+      "rerunOfBroadcastID": "broadcast-2026-10-06"
     },
     {
       "id": "broadcast-2026-10-26",
@@ -3444,10 +3521,10 @@
       "title": "",
       "performerNames": [],
       "songTitles": [],
-      "resultNote": "再?(2026/10/05(月))",
+      "resultNote": "再(2026/10/05(月))",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261026",
-      "rerunOfBroadcastID": null
+      "rerunOfBroadcastID": "broadcast-2026-10-05"
     },
     {
       "id": "broadcast-2026-10-24",
@@ -3467,7 +3544,7 @@
         "ようかいしりとり",
         "こねこのパンやさん(再"
       ],
-      "resultNote": "再ベース(2026/05/16(土)) → 管理人のTweet Now!\n♪ガマンガマン!\n♪コロッケこれっきゃない!(アニメ\n♪そよそよの木の上で(再\n♪うん\n♪ようかいしりとり\n♪こねこのパンやさん(再\n●一緒に空手をしちゃおう(仮題) WJ 約24人の大勢の空手をする男の子女の子達と @どこかの道場\n●月歌:♪コロッケこれっきゃない!(アニメ 2026年10月の月歌)\n●今日はどんな歌かな?ファンターネ! 再(2025/12/20(土))\n●歌コーナー:♪そよそよの木の上で(再 2025/06/27(金) ロケ) ♪うん、いいんじゃない ♪ようかいしりとり\n●からだ☆ダンダン WJ 約24人の男の子女の子 ※ J第一声 @最初の室内",
+      "resultNote": "再ベース(2026/05/16(土)) → 管理人のTweet\n♪ガマンガマン!\n♪コロッケこれっきゃない!(アニメ\n♪そよそよの木の上で(再\n♪うん\n♪ようかいしりとり\n♪こねこのパンやさん(再\n●一緒に空手をしちゃおう(仮題) WJ 約24人の大勢の空手をする男の子女の子達と @どこかの道場\n●月歌:♪コロッケこれっきゃない!(アニメ 2026年10月の月歌)\n●今日はどんな歌かな?ファンターネ! 再(2025/12/20(土))\n●歌コーナー:♪そよそよの木の上で(再 2025/06/27(金) ロケ) ♪うん、いいんじゃない ♪ようかいしりとり\n●からだ☆ダンダン WJ 約24人の男の子女の子 ※ J第一声 @最初の室内",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261024",
       "rerunOfBroadcastID": null
