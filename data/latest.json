@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T00:06:01Z",
+  "generatedAt": "2026-11-03T02:44:53Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -291,6 +291,20 @@
     }
   ],
   "songs": [
+    {
+      "id": "song-2026-11",
+      "title": "マッチョマッチョ",
+      "category": "monthlySong",
+      "yearMonth": "2026-11-01T00:00:00Z",
+      "composer": "D.W.ニコルズ",
+      "lyricist": "わたなべだいすけ",
+      "singerNames": [
+        "ゆう",
+        "まや"
+      ],
+      "songDescription": "",
+      "sourceURLString": "http://moi-moi.jp/tsukiuta.html#2026november"
+    },
     {
       "id": "song-2026-10",
       "title": "コロッケこれっきゃない!",
