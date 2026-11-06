@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T01:14:21Z",
+  "generatedAt": "2026-11-06T01:19:40Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -3397,6 +3397,17 @@
     }
   ],
   "broadcasts": [
+    {
+      "id": "broadcast-2026-11-08",
+      "date": "2026-11-08T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [],
+      "resultNote": "NHK Eテレ 16:15〜17:00 みんな集まれ!こどもうたまつり うたの文化祭 再(2025/11/03(月・祝))",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261108",
+      "rerunOfBroadcastID": "broadcast-2025-11-03"
+    },
     {
       "id": "broadcast-2026-11-07",
       "date": "2026-11-07T00:00:00Z",
