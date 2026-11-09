@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T00:07:59Z",
+  "generatedAt": "2026-11-09T00:25:03Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -3476,11 +3476,18 @@
       "id": "broadcast-2026-11-02",
       "date": "2026-11-02T00:00:00Z",
       "title": "",
-      "performerNames": [],
-      "songTitles": [
-        "マッチョマッチョ(11月の月歌"
+      "performerNames": [
+        "まや姉",
+        "ゆういちろう兄",
+        "アン姉",
+        "ファンターネ!",
+        "和夢兄"
       ],
-      "resultNote": "お友達と一緒に♪マッチョマッチョ(11月の月歌)、ファンファンコロリンパ、からだ☆ダンダン、他\n♪マッチョマッチョ(11月の月歌",
+      "songTitles": [
+        "マッチョマッチョ",
+        "きんらきらぽん"
+      ],
+      "resultNote": "→ 管理人のTweet Now!\n♪マッチョマッチョ\n♪きんらきらぽん\n●歌コーナー:♪マッチョマッチョ(Y♪M♪WJ みもも♪ New 2026年11月の月歌) @新スタジオ\n●ファンターネ!:ルチータはここには居ません、約束だもの!の回(仮題)\n●ファンファンコロリンパ:YMWJ みもも 約29人のお友達 サイコロを投げて出た面に描かれている絵と同じ動きをする\n●ぱくぱくるんるん:男の子とお母さんとお兄ちゃん ●インターミッション:かば 再(2026/09/24(木)) 短ver.",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261102",
       "rerunOfBroadcastID": null
@@ -3491,7 +3498,7 @@
       "title": "",
       "performerNames": [],
       "songTitles": [],
-      "resultNote": "再(2026/10/10(土)) Now!",
+      "resultNote": "再(2026/10/10(土))",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261031",
       "rerunOfBroadcastID": "broadcast-2026-10-10"
