@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T01:36:57Z",
+  "generatedAt": "2026-11-14T01:11:02Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -3412,9 +3412,21 @@
       "id": "broadcast-2026-11-07",
       "date": "2026-11-07T00:00:00Z",
       "title": "",
-      "performerNames": [],
-      "songTitles": [],
-      "resultNote": "本放送 富士ファミコン",
+      "performerNames": [
+        "まや姉",
+        "ゆういちろう兄",
+        "アン姉",
+        "ファンターネ!",
+        "和夢兄",
+        "誠兄"
+      ],
+      "songTitles": [
+        "オーバチュア",
+        "ちきゅうのこども",
+        "みんなだれかがすきになる",
+        "きんらきらぽん"
+      ],
+      "resultNote": "本放送 富士ファミコン → 管理人のTweet Now!\n♪オーバチュア\n♪ちきゅうのこども\n♪みんなだれかがすきになる\n♪きんらきらぽん\n●YMWJ、ファネ挨拶\n●体操前の準備を促すトーク JW\n●からだ☆ダンダン JW",
       "isSpecialEpisode": true,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261107",
       "rerunOfBroadcastID": null
@@ -3434,7 +3446,7 @@
         "マッチョマッチョ",
         "きんらきらぽん"
       ],
-      "resultNote": "本放送 → 管理人のTweet Now!\n♪マッチョマッチョ\n♪きんらきらぽん\n●歌コーナー:♪マッチョマッチョ(Y♪M♪WJ 2026年11月の月歌) @新スタジオ\n●ファンターネ!:アンモさんの大発明・イルカを呼べる笛「イルカヨベ〜ル」の回(仮題) 再(2026/02/18(水))\n●ファンキーマーキーチャンネル:女の子 パン作ります。\n●ドン!ドン!おかたづけ:男の子 ●インターミッション:ほたるいか New",
+      "resultNote": "本放送 → 管理人のTweet\n♪マッチョマッチョ\n♪きんらきらぽん\n●歌コーナー:♪マッチョマッチョ(Y♪M♪WJ 2026年11月の月歌) @新スタジオ\n●ファンターネ!:アンモさんの大発明・イルカを呼べる笛「イルカヨベ〜ル」の回(仮題) 再(2026/02/18(水))\n●ファンキーマーキーチャンネル:女の子 パン作ります。\n●ドン!ドン!おかたづけ:男の子 ●インターミッション:ほたるいか New",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261106",
       "rerunOfBroadcastID": null
