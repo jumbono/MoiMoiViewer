@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T00:36:43Z",
+  "generatedAt": "2026-11-16T00:36:23Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -3398,6 +3398,53 @@
   ],
   "broadcasts": [
     {
+      "id": "broadcast-2026-11-16",
+      "date": "2026-11-16T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "マッチョマッチョ"
+      ],
+      "resultNote": "本放送 お友達と一緒に♪マッチョマッチョ、ファンファンコロリンパ、からだ☆ダンダン、他\n♪マッチョマッチョ",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261116",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-11-10",
+      "date": "2026-11-10T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "どんなかお"
+      ],
+      "resultNote": "本放送 お友達と一緒に♪どんなかお、さすらえ!ポーズマン、からだ☆ダンダン、他\n♪どんなかお",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261110",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-11-09",
+      "date": "2026-11-09T00:00:00Z",
+      "title": "",
+      "performerNames": [
+        "まや姉",
+        "ゆういちろう兄",
+        "アン姉",
+        "ファンターネ!",
+        "和夢兄"
+      ],
+      "songTitles": [
+        "げんき・元気",
+        "マッチョマッチョ(アニメ版",
+        "きんらきらぽん"
+      ],
+      "resultNote": "本放送 → 管理人のTweet Now!\n♪げんき・元気\n♪マッチョマッチョ(アニメ版\n♪きんらきらぽん\n●歌コーナー:♪げんき・元気(Y♪M♪WJ) @新スタジオ\n●ファンターネ!:可愛い種色々を育ててみようの回(仮題)\n●月歌:♪マッチョマッチョ(アニメ版 New 2026年11月の月歌)\n●ファンファンコロリンパ:YMWJ ルチータだけで サイコロを投げて出た面に描かれている絵と同じ動きをする\n●ぱくぱくるんるん:男の子とお母さんとお父さんと妹 ●インターミッション:きんちゃくがに 再(2026/02/02(月)) 短ver.\n●からだ☆ダンダン WJ J第一声 ※ 約33人のお友達と共に",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261109",
+      "rerunOfBroadcastID": null
+    },
+    {
       "id": "broadcast-2026-11-08",
       "date": "2026-11-08T00:00:00Z",
       "title": "",
@@ -3426,7 +3473,7 @@
         "みんなだれかがすきになる",
         "きんらきらぽん"
       ],
-      "resultNote": "本放送 富士ファミコン → 管理人のTweet Now!\n♪オーバチュア\n♪ちきゅうのこども\n♪みんなだれかがすきになる\n♪きんらきらぽん\n●YMWJ、ファネ挨拶\n●体操前の準備を促すトーク JW\n●からだ☆ダンダン JW",
+      "resultNote": "本放送 富士ファミコン → 管理人のTweet\n♪オーバチュア\n♪ちきゅうのこども\n♪みんなだれかがすきになる\n♪きんらきらぽん\n●YMWJ、ファネ挨拶\n●体操前の準備を促すトーク JW\n●からだ☆ダンダン JW",
       "isSpecialEpisode": true,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261107",
       "rerunOfBroadcastID": null
