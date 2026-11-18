@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T03:21:09Z",
+  "generatedAt": "2026-11-18T02:42:06Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -3398,6 +3398,70 @@
   ],
   "broadcasts": [
     {
+      "id": "broadcast-2026-11-21",
+      "date": "2026-11-21T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [],
+      "resultNote": "本放送 [かずアン NHK高松放送局から 2回目収録]",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261121",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-11-20",
+      "date": "2026-11-20T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "マッチョマッチョ",
+        "はにわなダンス"
+      ],
+      "resultNote": "本放送 お友達と一緒に♪マッチョマッチョ、「やぎさんゆうびん」は♪はにわなダンス、他\n♪マッチョマッチョ\n♪はにわなダンス",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261120",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-11-19",
+      "date": "2026-11-19T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "こぎつね"
+      ],
+      "resultNote": "本放送 お友達と一緒に♪こぎつね、ルチータとス〜ハ〜フ〜、しりたガエルのけけちゃま、他\n♪こぎつね",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261119",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-11-18",
+      "date": "2026-11-18T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "マッチョマッチョ"
+      ],
+      "resultNote": "本放送 お友達と一緒に♪マッチョマッチョ、おえかきクレッピー、からだ☆ダンダン、他\n♪マッチョマッチョ",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261118",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-11-17",
+      "date": "2026-11-17T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "ありがとうの花"
+      ],
+      "resultNote": "本放送 お友達と一緒に♪ありがとうの花、さすらいのポーズマン、からだ☆ダンダン、他\n♪ありがとうの花",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261117",
+      "rerunOfBroadcastID": null
+    },
+    {
       "id": "broadcast-2026-11-16",
       "date": "2026-11-16T00:00:00Z",
       "title": "",
@@ -3452,11 +3516,22 @@
       "id": "broadcast-2026-11-11",
       "date": "2026-11-11T00:00:00Z",
       "title": "",
-      "performerNames": [],
-      "songTitles": [
-        "おおきなくちあけて"
+      "performerNames": [
+        "まや姉",
+        "ゆういちろう兄",
+        "アン姉",
+        "ファンターネ!",
+        "和夢兄"
       ],
-      "resultNote": "本放送 お友達と一緒に♪おおきなくちあけて、おえかきクレッピー、からだ☆ダンダン、他\n♪おおきなくちあけて",
+      "songTitles": [
+        "おおきなくちあけて",
+        "おしゃれフルーツ",
+        "のりまきペラパリおんど",
+        "赤い鳥小鳥",
+        "マッチョマッチョ(アニメ版",
+        "きんらきらぽん"
+      ],
+      "resultNote": "本放送 → 管理人のTweet Now!\n♪おおきなくちあけて\n♪おしゃれフルーツ\n♪のりまきペラパリおんど\n♪赤い鳥小鳥\n♪マッチョマッチョ(アニメ版\n♪きんらきらぽん\n●歌コーナー:♪おおきなくちあけて(Y♪M♪WJ) @新スタジオ\n●ファンターネ!:『あーぷんのおうちで凄いことあるよ』とミミコ姉さんをご招待の回(仮題) 再(2024/10/24(木))\n●月歌:♪マッチョマッチョ(アニメ版 2026年11月の月歌)\n●こんなこいるかな(アニメ):わらいんぼうの げらら「大声」篇(New)\n●おえかきクレッピー(ロケ):クレッピー(W) チンアナゴをお絵描き @すみだ水族館 再(2025/11/11(火)))\n●はみがきじょうずかな:女の子 ●インターミッション:ちんあなご 再(2025/11/11(火))\n●からだ☆ダンダン WJ J第一声 ※ 約31人のお友達と共に",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261111",
       "rerunOfBroadcastID": null
@@ -3477,7 +3552,7 @@
         "ふたりはなかよし(再",
         "マッチョマッチョ(アニメ版"
       ],
-      "resultNote": "本放送 → 管理人のTweet Now!\n♪どんなかお\n♪いっしょにつくったら(アニメ\n♪ふたりはなかよし(再\n♪マッチョマッチョ(アニメ版\n●歌コーナー:♪どんなかお(Y♪M♪WJ) @新スタジオ\n●ファンターネ!:タスケル仮面が道をふさぐ岩を放り投げたの回(仮題)\n●月歌:♪マッチョマッチョ(アニメ版 2026年11月の月歌)\n●さすらえ!ポーズマン(ロケ):ポーズマン(W) @丸亀城\n●てーを!:男の子 ●インターミッション:らっこ 再(2025/11/15(土))",
+      "resultNote": "本放送 → 管理人のTweet\n♪どんなかお\n♪いっしょにつくったら(アニメ\n♪ふたりはなかよし(再\n♪マッチョマッチョ(アニメ版\n●歌コーナー:♪どんなかお(Y♪M♪WJ) @新スタジオ\n●ファンターネ!:タスケル仮面が道をふさぐ岩を放り投げたの回(仮題)\n●月歌:♪マッチョマッチョ(アニメ版 2026年11月の月歌)\n●さすらえ!ポーズマン(ロケ):ポーズマン(W) @丸亀城\n●てーを!:男の子 ●インターミッション:らっこ 再(2025/11/15(土))",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261110",
       "rerunOfBroadcastID": null
