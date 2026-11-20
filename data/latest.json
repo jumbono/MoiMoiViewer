@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T02:10:52Z",
+  "generatedAt": "2026-11-20T01:59:22Z",
   "performers": [
     {
       "id": "hanadayuuichirou",
@@ -3398,6 +3398,58 @@
   ],
   "broadcasts": [
     {
+      "id": "broadcast-2026-11-26",
+      "date": "2026-11-26T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "にくやきにいく"
+      ],
+      "resultNote": "本放送 お友達と一緒に♪♪にくやきにいく、めいたんていやころ、しりたガエルのけけちゃま、他\n♪にくやきにいく",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261126",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-11-25",
+      "date": "2026-11-25T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "おかおサンドウィッチ"
+      ],
+      "resultNote": "本放送 お友達と一緒に♪おかおサンドウィッチ、おえかきクレッピー、からだ☆ダンダン、他\n♪おかおサンドウィッチ",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261125",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-11-24",
+      "date": "2026-11-24T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "あ・い・う・え・おにぎり"
+      ],
+      "resultNote": "本放送 お友達と一緒に♪あ・い・う・え・おにぎり、さすらいのポーズマン、からだ☆ダンダン、他\n♪あ・い・う・え・おにぎり",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261124",
+      "rerunOfBroadcastID": null
+    },
+    {
+      "id": "broadcast-2026-11-23",
+      "date": "2026-11-23T00:00:00Z",
+      "title": "",
+      "performerNames": [],
+      "songTitles": [
+        "ニッコニコ!プレゼント"
+      ],
+      "resultNote": "本放送 お友達と一緒に♪ニッコニコ!プレゼント、ファンファンコロリンパ、からだ☆ダンダン、他\n♪ニッコニコ!プレゼント",
+      "isSpecialEpisode": false,
+      "sourceURLString": "http://moi-moi.jp/index.html#b_20261123",
+      "rerunOfBroadcastID": null
+    },
+    {
       "id": "broadcast-2026-11-21",
       "date": "2026-11-21T00:00:00Z",
       "title": "",
@@ -3489,12 +3541,22 @@
       "id": "broadcast-2026-11-13",
       "date": "2026-11-13T00:00:00Z",
       "title": "",
-      "performerNames": [],
+      "performerNames": [
+        "まや姉",
+        "ゆういちろう兄",
+        "アン姉",
+        "ファンターネ!",
+        "和夢兄"
+      ],
       "songTitles": [
         "アイスクリームのうた",
-        "ほっとけーきはすてき"
+        "あげあげドーナツ(再",
+        "おかしなおばけドラドルチェ",
+        "あっちっちのフライパン(再",
+        "マッチョマッチョ(アニメ版",
+        "きんらきらぽん"
       ],
-      "resultNote": "本放送 お友達と一緒に♪アイスクリームのうた、やぎさんゆうびん:♪ほっとけーきはすてき、他\n♪アイスクリームのうた\n♪ほっとけーきはすてき",
+      "resultNote": "本放送 → 管理人のTweet Now!\n♪アイスクリームのうた\n♪あげあげドーナツ(再\n♪おかしなおばけドラドルチェ\n♪あっちっちのフライパン(再\n♪マッチョマッチョ(アニメ版\n♪きんらきらぽん\n●歌コーナー:♪アイスクリームのうた(Y♪M♪WJ) @新スタジオ\n●月歌:♪マッチョマッチョ(アニメ版 2026年11月の月歌)\n●ファンキーマーキーチャンネル:女の子 書道の練習をします。\n●ドン!ドン!おかたづけ:男の子 ●インターミッション:らーてる 再(2026/08/08(土))\n●からだ☆ダンダン WJ J第一声 ※ 約30人のお友達と共に",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261113",
       "rerunOfBroadcastID": null
@@ -3515,7 +3577,7 @@
         "マッチョマッチョ(アニメ版",
         "きんらきらぽん"
       ],
-      "resultNote": "本放送 → 管理人のTweet Now!\n♪ガンバラッパ☆ガンバル〜ン\n♪マッチョマッチョ(アニメ版\n♪きんらきらぽん\n●歌コーナー:♪ガンバラッパ☆ガンバル〜ン(Y♪M♪WJ) @新スタジオ\n●ファンターネ!:同じ色の落ち葉を何枚集められるかゲームの回(仮題) 再(2025/11/04(火))\n●月歌:♪マッチョマッチョ(アニメ版 2026年11月の月歌)\n●ももいろリズム(アニメ):みももとタンバリンでリズム遊びしよう(仮題) 再(2026/08/06(木))\n●しりたガエルのけけちゃま 〜けけちゃまの はる・なつ・あき・ふゆ〜 秋の店の回(仮題)\n●パジャマでおじゃま:女の子\n●すわって からだ☆ダンダン JW W第一声 再(2026/06/25(木))",
+      "resultNote": "本放送 → 管理人のTweet\n♪ガンバラッパ☆ガンバル〜ン\n♪マッチョマッチョ(アニメ版\n♪きんらきらぽん\n●歌コーナー:♪ガンバラッパ☆ガンバル〜ン(Y♪M♪WJ) @新スタジオ\n●ファンターネ!:同じ色の落ち葉を何枚集められるかゲームの回(仮題) 再(2025/11/04(火))\n●月歌:♪マッチョマッチョ(アニメ版 2026年11月の月歌)\n●ももいろリズム(アニメ):みももとタンバリンでリズム遊びしよう(仮題) 再(2026/08/06(木))\n●しりたガエルのけけちゃま 〜けけちゃまの はる・なつ・あき・ふゆ〜 秋の店の回(仮題)\n●パジャマでおじゃま:女の子\n●すわって からだ☆ダンダン JW W第一声 再(2026/06/25(木))",
       "isSpecialEpisode": false,
       "sourceURLString": "http://moi-moi.jp/index.html#b_20261112",
       "rerunOfBroadcastID": null
